@@ -1,0 +1,21 @@
+{
+  "per_frame_config": [
+    {
+      "file": "per_frame_config.csv",
+      "rows": 4515,
+      "bytes": 1354333,
+      "sha256": "4708c2e2012acc714f558e46865192f14b95c3d2646ecba41be507d0ee2b0e08"
+    }
+  ],
+  "per_object_config": [
+    {
+      "file": "per_object_config.csv",
+      "rows": 56674,
+      "bytes": 9941928,
+      "sha256": "a4619458eb7b4b02750997fb77c737832ca3fd1bf0f53ab47ea85440f29d9771"
+    }
+  ],
+  "byte_limit_exclusive": 20000000,
+  "target_shard_rows": 20000,
+  "aggregation": "summary uses the entire DataFrame, not a single shard"
+}

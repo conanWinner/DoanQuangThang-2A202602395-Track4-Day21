@@ -1,0 +1,14 @@
+{
+  "id": "thngonquang/track4-day21-lidar-camera-calibration",
+  "title": "Track4 Day21 Lidar Camera Calibration",
+  "code_file": "topic_a_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

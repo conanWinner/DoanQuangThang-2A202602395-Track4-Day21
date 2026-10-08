@@ -1,0 +1,450 @@
+{
+  "seed": 2026,
+  "roots": [
+    "data/kitti_mini",
+    "data/nuscenes_mini_subset",
+    "data/synthetic"
+  ],
+  "frames": {
+    "kitti_mini": [
+      "000001",
+      "000004",
+      "000007",
+      "000008",
+      "000009",
+      "000010",
+      "000011",
+      "000012",
+      "000015",
+      "000016",
+      "000019",
+      "000021",
+      "000023",
+      "000025",
+      "000031",
+      "000032",
+      "000043",
+      "000048",
+      "000049",
+      "000061"
+    ],
+    "nuscenes_mini_subset": [
+      "scene-0103_000",
+      "scene-0103_001",
+      "scene-0103_002",
+      "scene-0103_003",
+      "scene-0103_004",
+      "scene-0103_005",
+      "scene-0103_006",
+      "scene-0103_007",
+      "scene-0103_008",
+      "scene-0103_009",
+      "scene-0103_010",
+      "scene-0103_011",
+      "scene-0103_012",
+      "scene-0103_013",
+      "scene-0103_014",
+      "scene-0103_015",
+      "scene-0103_016",
+      "scene-0103_017",
+      "scene-0103_018",
+      "scene-0103_019",
+      "scene-0103_020",
+      "scene-0103_021",
+      "scene-0103_022",
+      "scene-0103_023",
+      "scene-0103_024",
+      "scene-0103_025",
+      "scene-0103_026",
+      "scene-0103_027",
+      "scene-0103_028",
+      "scene-0103_029",
+      "scene-0103_030",
+      "scene-0103_031",
+      "scene-0103_032",
+      "scene-0103_033",
+      "scene-0103_034",
+      "scene-0103_035",
+      "scene-0103_036",
+      "scene-0103_037",
+      "scene-0103_038",
+      "scene-0103_039",
+      "scene-1094_000",
+      "scene-1094_001",
+      "scene-1094_002",
+      "scene-1094_003",
+      "scene-1094_004",
+      "scene-1094_005",
+      "scene-1094_006",
+      "scene-1094_007",
+      "scene-1094_008",
+      "scene-1094_009",
+      "scene-1094_010",
+      "scene-1094_011",
+      "scene-1094_012",
+      "scene-1094_013",
+      "scene-1094_014",
+      "scene-1094_015",
+      "scene-1094_016",
+      "scene-1094_017",
+      "scene-1094_018",
+      "scene-1094_019",
+      "scene-1094_020",
+      "scene-1094_021",
+      "scene-1094_022",
+      "scene-1094_023",
+      "scene-1094_024",
+      "scene-1094_025",
+      "scene-1094_026",
+      "scene-1094_027",
+      "scene-1094_028",
+      "scene-1094_029",
+      "scene-1094_030",
+      "scene-1094_031",
+      "scene-1094_032",
+      "scene-1094_033",
+      "scene-1094_034",
+      "scene-1094_035",
+      "scene-1094_036",
+      "scene-1094_037",
+      "scene-1094_038",
+      "scene-1094_039"
+    ],
+    "synthetic": [
+      "000000",
+      "000001",
+      "000002",
+      "000003",
+      "000004"
+    ]
+  },
+  "configurations": [
+    {
+      "config": "zero",
+      "factor": "zero",
+      "value": 0.0,
+      "unit": "none"
+    },
+    {
+      "config": "yaw_-3",
+      "factor": "yaw",
+      "value": -3.0,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_-2",
+      "factor": "yaw",
+      "value": -2.0,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_-1",
+      "factor": "yaw",
+      "value": -1.0,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_-0.5",
+      "factor": "yaw",
+      "value": -0.5,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_+0.5",
+      "factor": "yaw",
+      "value": 0.5,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_+1",
+      "factor": "yaw",
+      "value": 1.0,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_+2",
+      "factor": "yaw",
+      "value": 2.0,
+      "unit": "deg"
+    },
+    {
+      "config": "yaw_+3",
+      "factor": "yaw",
+      "value": 3.0,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_-3",
+      "factor": "pitch",
+      "value": -3.0,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_-2",
+      "factor": "pitch",
+      "value": -2.0,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_-1",
+      "factor": "pitch",
+      "value": -1.0,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_-0.5",
+      "factor": "pitch",
+      "value": -0.5,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_+0.5",
+      "factor": "pitch",
+      "value": 0.5,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_+1",
+      "factor": "pitch",
+      "value": 1.0,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_+2",
+      "factor": "pitch",
+      "value": 2.0,
+      "unit": "deg"
+    },
+    {
+      "config": "pitch_+3",
+      "factor": "pitch",
+      "value": 3.0,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_-3",
+      "factor": "roll",
+      "value": -3.0,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_-2",
+      "factor": "roll",
+      "value": -2.0,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_-1",
+      "factor": "roll",
+      "value": -1.0,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_-0.5",
+      "factor": "roll",
+      "value": -0.5,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_+0.5",
+      "factor": "roll",
+      "value": 0.5,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_+1",
+      "factor": "roll",
+      "value": 1.0,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_+2",
+      "factor": "roll",
+      "value": 2.0,
+      "unit": "deg"
+    },
+    {
+      "config": "roll_+3",
+      "factor": "roll",
+      "value": 3.0,
+      "unit": "deg"
+    },
+    {
+      "config": "x_-0.1",
+      "factor": "x",
+      "value": -0.1,
+      "unit": "m"
+    },
+    {
+      "config": "x_-0.05",
+      "factor": "x",
+      "value": -0.05,
+      "unit": "m"
+    },
+    {
+      "config": "x_-0.02",
+      "factor": "x",
+      "value": -0.02,
+      "unit": "m"
+    },
+    {
+      "config": "x_+0.02",
+      "factor": "x",
+      "value": 0.02,
+      "unit": "m"
+    },
+    {
+      "config": "x_+0.05",
+      "factor": "x",
+      "value": 0.05,
+      "unit": "m"
+    },
+    {
+      "config": "x_+0.1",
+      "factor": "x",
+      "value": 0.1,
+      "unit": "m"
+    },
+    {
+      "config": "y_-0.1",
+      "factor": "y",
+      "value": -0.1,
+      "unit": "m"
+    },
+    {
+      "config": "y_-0.05",
+      "factor": "y",
+      "value": -0.05,
+      "unit": "m"
+    },
+    {
+      "config": "y_-0.02",
+      "factor": "y",
+      "value": -0.02,
+      "unit": "m"
+    },
+    {
+      "config": "y_+0.02",
+      "factor": "y",
+      "value": 0.02,
+      "unit": "m"
+    },
+    {
+      "config": "y_+0.05",
+      "factor": "y",
+      "value": 0.05,
+      "unit": "m"
+    },
+    {
+      "config": "y_+0.1",
+      "factor": "y",
+      "value": 0.1,
+      "unit": "m"
+    },
+    {
+      "config": "z_-0.1",
+      "factor": "z",
+      "value": -0.1,
+      "unit": "m"
+    },
+    {
+      "config": "z_-0.05",
+      "factor": "z",
+      "value": -0.05,
+      "unit": "m"
+    },
+    {
+      "config": "z_-0.02",
+      "factor": "z",
+      "value": -0.02,
+      "unit": "m"
+    },
+    {
+      "config": "z_+0.02",
+      "factor": "z",
+      "value": 0.02,
+      "unit": "m"
+    },
+    {
+      "config": "z_+0.05",
+      "factor": "z",
+      "value": 0.05,
+      "unit": "m"
+    },
+    {
+      "config": "z_+0.1",
+      "factor": "z",
+      "value": 0.1,
+      "unit": "m"
+    }
+  ],
+  "sweep_zero": "One shared zero control included in every factor curve; factors never combined.",
+  "angles_deg": [
+    -3,
+    -2,
+    -1,
+    -0.5,
+    0,
+    0.5,
+    1,
+    2,
+    3
+  ],
+  "translations_m": [
+    -0.1,
+    -0.05,
+    -0.02,
+    0,
+    0.02,
+    0.05,
+    0.1
+  ],
+  "score_samples": 4096,
+  "canny": [
+    100,
+    200
+  ],
+  "score": "median candidate-visible edge distance / image diagonal",
+  "min_score_visible": 30,
+  "score_insufficient_status": "coverage_insufficient",
+  "native_axes": {
+    "kitti_mini": "LiDAR native: x forward, y left, z up",
+    "synthetic": "LiDAR native: x forward, y left, z up (KITTI convention)",
+    "nuscenes_mini_subset": "LiDAR native: x right, y forward, z up"
+  },
+  "factor_axes": {
+    "roll": "native x",
+    "pitch": "native y",
+    "yaw": "native z",
+    "x": "native x",
+    "y": "native y",
+    "z": "native z"
+  },
+  "code_sha256": {
+    "src/calibration_benchmark.py": "aa4ba3b3cbcde0671126be92329c30abbbce238896c4d2828a7ce525c76d4648",
+    "starter/projection.py": "40c5e7d157979abf0dbcaef5d1bc80ec418390a0346d8482b06d2f9ff2730211",
+    "starter/datasets.py": "b24cd72db6fa07073ea5a9caa84988a83142f9e9d9af62f2b1bfc6b30be130d4",
+    "starter/kitti_io.py": "b4de0a271a21da12d55691585abbcb2d08b1557bd2974a51709085570e7a84fd",
+    "starter/nuscenes_io.py": "f9c5369d672d04578001833c38abaef97559b797316ee7c02fc1f46bd8111b7e"
+  },
+  "data_manifest": "data_manifest.json",
+  "data_manifest_sha256": "c1643539053046c1ab6af401bf988cf326251a6117fbc7408234c746aec6133f",
+  "split_manifest": "split_manifest.json",
+  "split_manifest_csv": "split_manifest.csv",
+  "split_manifest_sha256": "d51c81205693c0ec2f416e5dc9b146b23b374a2ee09bd776f8123a61b8437aeb",
+  "min_object_baseline_visible": 5,
+  "latency_repeats": 30,
+  "caveats": [
+    "nuScenes 2D bbox is generated from 3D labels, not independent 2D ground truth.",
+    "nuScenes KITTI-style upright box conversion is approximate (full orientation is lost).",
+    "Ego motion compensation is enabled; dynamic object motion between sensor timestamps is not compensated.",
+    "Membership is fixed per baseline object; overlapping 3D boxes may share points.",
+    "Frame split is within-seen-scenes only, deterministic and stratified by dataset/scene; adjacent frames are correlated. No unseen-scene generalization claim.",
+    "Synthetic calibration perturbations measure sensitivity, not validated real-world drift detection.",
+    "Canny score median uses candidate-visible fixed samples; changing coverage can bias it. Lower is better.",
+    "Canny heuristic matches projected points to image edges, not depth-edge to image-edge alignment; not a validated alignment metric.",
+    "Fewer than 30 candidate-visible fixed samples: coverage_insufficient, unscorable; fixed rule, no test tuning.",
+    "Perturbation axes are LiDAR native. Yaw is about z-up in both datasets; roll/pitch and x/y translations do not represent the same physical direction across KITTI and nuScenes.",
+    "Zero is an unperturbed control, not proof that dataset calibration/labels are perfect."
+  ]
+}

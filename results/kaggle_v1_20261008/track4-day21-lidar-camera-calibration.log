@@ -1,0 +1,394 @@
+[{"stream_name":"stderr","time":10.189848033,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":10.189984177,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":10.18999267,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":10.189997783,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":11.080988495,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":11.081024517,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":11.081031038,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":11.081036955,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":16.113473418,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.0/62.0 kB 1.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":16.316621331,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.0/62.0 kB 1.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.315927441,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.5/16.5 MB 62.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.518750318,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.5/16.5 MB 62.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.069939759,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 54.0/54.0 MB 29.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.241289839,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.7/8.7 MB 58.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.272635026,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 54.0/54.0 MB 29.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.272673666,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.7/8.7 MB 58.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":54.444471348,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":54.444513996,"data":"bigframes 2.48.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":54.444521968,"data":"ydata-profiling 4.18.4 requires matplotlib\u003c=3.10,\u003e=3.5, but you have matplotlib 3.10.7 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.444528459,"data":"google-colab 1.0.0 requires jupyter-server==2.20.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.444534881,"data":"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.444540867,"data":"google-colab 1.0.0 requires requests==2.32.4, but you have requests 2.34.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.444564486,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.444570367,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649706231,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":54.649737411,"data":"bigframes 2.48.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":54.649743757,"data":"ydata-profiling 4.18.4 requires matplotlib\u003c=3.10,\u003e=3.5, but you have matplotlib 3.10.7 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649749196,"data":"google-colab 1.0.0 requires jupyter-server==2.20.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649754452,"data":"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649759507,"data":"google-colab 1.0.0 requires requests==2.32.4, but you have requests 2.34.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649764767,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.64977009,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.64977502,"data":"\n"}
+,{"stream_name":"stderr","time":54.649779542,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":54.649784424,"data":"bigframes 2.48.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":54.64978763,"data":"ydata-profiling 4.18.4 requires matplotlib\u003c=3.10,\u003e=3.5, but you have matplotlib 3.10.7 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.64979077,"data":"google-colab 1.0.0 requires jupyter-server==2.20.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649794092,"data":"google-colab 1.0.0 requires pandas==2.2.3, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649797249,"data":"google-colab 1.0.0 requires requests==2.32.4, but you have requests 2.34.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649800427,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":54.649803604,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stdout","time":60.50126366,"data":"Data revision: bce73adec3dbd09b2869ed2061513328ee228272\n"}
+,{"stream_name":"stdout","time":60.501304193,"data":"Source hashes verified: 10\n"}
+,{"stream_name":"stdout","time":60.501310323,"data":"Fresh output: /kaggle/working/results/topic_a_20261008T001923Z_fc959e59\n"}
+,{"stream_name":"stderr","time":61.639515382,"data":"test_csv_shards_byte_limit_and_complete_rows (test_projection.BenchmarkContractTests.test_csv_shards_byte_limit_and_complete_rows) ... \n"}
+,{"stream_name":"stderr","time":61.663871138,"data":"test_csv_shards_byte_limit_and_complete_rows (test_projection.BenchmarkContractTests.test_csv_shards_byte_limit_and_complete_rows) ... ok\n"}
+,{"stream_name":"stderr","time":61.663930781,"data":"\n"}
+,{"stream_name":"stderr","time":61.663937438,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.665036553,"data":"test_edge_score_fixed_ids_and_visibility (test_projection.BenchmarkContractTests.test_edge_score_fixed_ids_and_visibility) ... \n"}
+,{"stream_name":"stderr","time":61.666141132,"data":"test_edge_score_fixed_ids_and_visibility (test_projection.BenchmarkContractTests.test_edge_score_fixed_ids_and_visibility) ... ok\n"}
+,{"stream_name":"stderr","time":61.666162453,"data":"\n"}
+,{"stream_name":"stderr","time":61.666167585,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.667280205,"data":"test_independent_sweep_and_deterministic_split (test_projection.BenchmarkContractTests.test_independent_sweep_and_deterministic_split) ... \n"}
+,{"stream_name":"stderr","time":61.668215825,"data":"test_independent_sweep_and_deterministic_split (test_projection.BenchmarkContractTests.test_independent_sweep_and_deterministic_split) ... ok\n"}
+,{"stream_name":"stderr","time":61.668237493,"data":"\n"}
+,{"stream_name":"stderr","time":61.668242901,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.66915996,"data":"test_inverse_yaw_bottom_center (test_projection.BenchmarkContractTests.test_inverse_yaw_bottom_center) ... \n"}
+,{"stream_name":"stderr","time":61.687442629,"data":"test_inverse_yaw_bottom_center (test_projection.BenchmarkContractTests.test_inverse_yaw_bottom_center) ... ok\n"}
+,{"stream_name":"stderr","time":61.68747915,"data":"\n"}
+,{"stream_name":"stderr","time":61.687484817,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.688756044,"data":"test_overlay_radius_limit_and_selected_object (test_projection.BenchmarkContractTests.test_overlay_radius_limit_and_selected_object) ... \n"}
+,{"stream_name":"stderr","time":61.758484716,"data":"test_overlay_radius_limit_and_selected_object (test_projection.BenchmarkContractTests.test_overlay_radius_limit_and_selected_object) ... ok\n"}
+,{"stream_name":"stderr","time":61.758525568,"data":"\n"}
+,{"stream_name":"stderr","time":61.758531823,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.77286375,"data":"test_recall_includes_unscorable_and_unavailable_threshold (test_projection.BenchmarkContractTests.test_recall_includes_unscorable_and_unavailable_threshold) ... \n"}
+,{"stream_name":"stderr","time":61.774066143,"data":"test_recall_includes_unscorable_and_unavailable_threshold (test_projection.BenchmarkContractTests.test_recall_includes_unscorable_and_unavailable_threshold) ... ok\n"}
+,{"stream_name":"stderr","time":61.77409734,"data":"\n"}
+,{"stream_name":"stderr","time":61.774103214,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.775184913,"data":"test_calibration_must_be_finite (test_projection.ProjectionTests.test_calibration_must_be_finite) ... \n"}
+,{"stream_name":"stderr","time":61.776213843,"data":"test_calibration_must_be_finite (test_projection.ProjectionTests.test_calibration_must_be_finite) ... ok\n"}
+,{"stream_name":"stderr","time":61.776234672,"data":"\n"}
+,{"stream_name":"stderr","time":61.776265479,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.77713358,"data":"test_depth_nonfinite_and_image_bounds (test_projection.ProjectionTests.test_depth_nonfinite_and_image_bounds) ... \n"}
+,{"stream_name":"stderr","time":61.77821732,"data":"test_depth_nonfinite_and_image_bounds (test_projection.ProjectionTests.test_depth_nonfinite_and_image_bounds) ... ok\n"}
+,{"stream_name":"stderr","time":61.778256473,"data":"\n"}
+,{"stream_name":"stderr","time":61.778262521,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.779651728,"data":"test_empty_and_all_invalid (test_projection.ProjectionTests.test_empty_and_all_invalid) ... \n"}
+,{"stream_name":"stderr","time":61.780751744,"data":"test_empty_and_all_invalid (test_projection.ProjectionTests.test_empty_and_all_invalid) ... ok\n"}
+,{"stream_name":"stderr","time":61.780773633,"data":"\n"}
+,{"stream_name":"stderr","time":61.780812618,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.78173578,"data":"test_image_dimensions_must_be_positive (test_projection.ProjectionTests.test_image_dimensions_must_be_positive) ... \n"}
+,{"stream_name":"stderr","time":61.782633444,"data":"test_image_dimensions_must_be_positive (test_projection.ProjectionTests.test_image_dimensions_must_be_positive) ... ok\n"}
+,{"stream_name":"stderr","time":61.782653298,"data":"\n"}
+,{"stream_name":"stderr","time":61.782658652,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.783453882,"data":"test_known_synthetic_point (test_projection.ProjectionTests.test_known_synthetic_point) ... \n"}
+,{"stream_name":"stderr","time":61.784519221,"data":"test_known_synthetic_point (test_projection.ProjectionTests.test_known_synthetic_point) ... ok\n"}
+,{"stream_name":"stderr","time":61.784538464,"data":"\n"}
+,{"stream_name":"stderr","time":61.784543776,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.785599901,"data":"test_transform_direction (test_projection.ProjectionTests.test_transform_direction) ... \n"}
+,{"stream_name":"stderr","time":61.786525132,"data":"test_transform_direction (test_projection.ProjectionTests.test_transform_direction) ... ok\n"}
+,{"stream_name":"stderr","time":61.786543634,"data":"\n"}
+,{"stream_name":"stderr","time":61.786548666,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.787467901,"data":"test_zero_projective_denominator (test_projection.ProjectionTests.test_zero_projective_denominator) ... \n"}
+,{"stream_name":"stderr","time":61.788675384,"data":"test_zero_projective_denominator (test_projection.ProjectionTests.test_zero_projective_denominator) ... ok\n"}
+,{"stream_name":"stderr","time":61.788712879,"data":"\n"}
+,{"stream_name":"stderr","time":61.788718978,"data":"ok\n"}
+,{"stream_name":"stderr","time":61.789687482,"data":"\n"}
+,{"stream_name":"stderr","time":61.789710622,"data":"\n"}
+,{"stream_name":"stderr","time":61.789715839,"data":"\n"}
+,{"stream_name":"stderr","time":61.790778011,"data":"----------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":61.790799927,"data":"Ran 13 tests in 0.154s\n"}
+,{"stream_name":"stderr","time":61.790803627,"data":"\n"}
+,{"stream_name":"stderr","time":61.790806772,"data":"OK\n"}
+,{"stream_name":"stderr","time":61.790811399,"data":"\n"}
+,{"stream_name":"stderr","time":61.790815889,"data":"----------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":61.790820652,"data":"Ran 13 tests in 0.154s\n"}
+,{"stream_name":"stderr","time":61.790825016,"data":"\n"}
+,{"stream_name":"stderr","time":61.790829235,"data":"OK\n"}
+,{"stream_name":"stdout","time":66.983665199,"data":"kitti_mini 1/20 000001\n"}
+,{"stream_name":"stdout","time":67.186863867,"data":"kitti_mini 1/20 000001\n"}
+,{"stream_name":"stdout","time":69.008937172,"data":"kitti_mini 2/20 000004\n"}
+,{"stream_name":"stdout","time":69.211803885,"data":"kitti_mini 2/20 000004\n"}
+,{"stream_name":"stdout","time":71.510771934,"data":"kitti_mini 3/20 000007\n"}
+,{"stream_name":"stdout","time":71.713628444,"data":"kitti_mini 3/20 000007\n"}
+,{"stream_name":"stdout","time":73.623851716,"data":"kitti_mini 4/20 000008\n"}
+,{"stream_name":"stdout","time":73.82676142,"data":"kitti_mini 4/20 000008\n"}
+,{"stream_name":"stdout","time":75.768331162,"data":"kitti_mini 5/20 000009\n"}
+,{"stream_name":"stdout","time":75.972274553,"data":"kitti_mini 5/20 000009\n"}
+,{"stream_name":"stdout","time":77.792742442,"data":"kitti_mini 6/20 000010\n"}
+,{"stream_name":"stdout","time":77.99854190799999,"data":"kitti_mini 6/20 000010\n"}
+,{"stream_name":"stdout","time":79.753877085,"data":"kitti_mini 7/20 000011\n"}
+,{"stream_name":"stdout","time":79.958131336,"data":"kitti_mini 7/20 000011\n"}
+,{"stream_name":"stdout","time":81.91767295,"data":"kitti_mini 8/20 000012\n"}
+,{"stream_name":"stdout","time":82.121158681,"data":"kitti_mini 8/20 000012\n"}
+,{"stream_name":"stdout","time":84.043969041,"data":"kitti_mini 9/20 000015\n"}
+,{"stream_name":"stdout","time":84.247764878,"data":"kitti_mini 9/20 000015\n"}
+,{"stream_name":"stdout","time":86.053835301,"data":"kitti_mini 10/20 000016\n"}
+,{"stream_name":"stdout","time":86.256771596,"data":"kitti_mini 10/20 000016\n"}
+,{"stream_name":"stdout","time":88.138796881,"data":"kitti_mini 11/20 000019\n"}
+,{"stream_name":"stdout","time":88.34160747,"data":"kitti_mini 11/20 000019\n"}
+,{"stream_name":"stdout","time":90.714407524,"data":"kitti_mini 12/20 000021\n"}
+,{"stream_name":"stdout","time":90.917226913,"data":"kitti_mini 12/20 000021\n"}
+,{"stream_name":"stdout","time":92.900970475,"data":"kitti_mini 13/20 000023\n"}
+,{"stream_name":"stdout","time":93.120382337,"data":"kitti_mini 13/20 000023\n"}
+,{"stream_name":"stdout","time":94.905507559,"data":"kitti_mini 14/20 000025\n"}
+,{"stream_name":"stdout","time":95.109180946,"data":"kitti_mini 14/20 000025\n"}
+,{"stream_name":"stdout","time":97.044697908,"data":"kitti_mini 15/20 000031\n"}
+,{"stream_name":"stdout","time":97.247927843,"data":"kitti_mini 15/20 000031\n"}
+,{"stream_name":"stdout","time":99.228502782,"data":"kitti_mini 16/20 000032\n"}
+,{"stream_name":"stdout","time":99.434226731,"data":"kitti_mini 16/20 000032\n"}
+,{"stream_name":"stdout","time":101.414922654,"data":"kitti_mini 17/20 000043\n"}
+,{"stream_name":"stdout","time":101.617645449,"data":"kitti_mini 17/20 000043\n"}
+,{"stream_name":"stdout","time":103.582725412,"data":"kitti_mini 18/20 000048\n"}
+,{"stream_name":"stdout","time":103.78555483,"data":"kitti_mini 18/20 000048\n"}
+,{"stream_name":"stdout","time":105.695258536,"data":"kitti_mini 19/20 000049\n"}
+,{"stream_name":"stdout","time":105.89829891,"data":"kitti_mini 19/20 000049\n"}
+,{"stream_name":"stdout","time":107.916689491,"data":"kitti_mini 20/20 000061\n"}
+,{"stream_name":"stdout","time":108.121056372,"data":"kitti_mini 20/20 000061\n"}
+,{"stream_name":"stdout","time":108.508327838,"data":"nuscenes_mini_subset 1/80 scene-0103_000\n"}
+,{"stream_name":"stdout","time":108.711378636,"data":"nuscenes_mini_subset 1/80 scene-0103_000\n"}
+,{"stream_name":"stdout","time":108.953322212,"data":"nuscenes_mini_subset 2/80 scene-0103_001\n"}
+,{"stream_name":"stdout","time":109.156541171,"data":"nuscenes_mini_subset 2/80 scene-0103_001\n"}
+,{"stream_name":"stdout","time":109.404003822,"data":"nuscenes_mini_subset 3/80 scene-0103_002\n"}
+,{"stream_name":"stdout","time":109.607005531,"data":"nuscenes_mini_subset 3/80 scene-0103_002\n"}
+,{"stream_name":"stdout","time":109.865647418,"data":"nuscenes_mini_subset 4/80 scene-0103_003\n"}
+,{"stream_name":"stdout","time":110.068624831,"data":"nuscenes_mini_subset 4/80 scene-0103_003\n"}
+,{"stream_name":"stdout","time":110.332332797,"data":"nuscenes_mini_subset 5/80 scene-0103_004\n"}
+,{"stream_name":"stdout","time":110.535461546,"data":"nuscenes_mini_subset 5/80 scene-0103_004\n"}
+,{"stream_name":"stdout","time":110.793339463,"data":"nuscenes_mini_subset 6/80 scene-0103_005\n"}
+,{"stream_name":"stdout","time":110.999549612,"data":"nuscenes_mini_subset 6/80 scene-0103_005\n"}
+,{"stream_name":"stdout","time":111.28069537,"data":"nuscenes_mini_subset 7/80 scene-0103_006\n"}
+,{"stream_name":"stdout","time":111.483531374,"data":"nuscenes_mini_subset 7/80 scene-0103_006\n"}
+,{"stream_name":"stdout","time":111.724313799,"data":"nuscenes_mini_subset 8/80 scene-0103_007\n"}
+,{"stream_name":"stdout","time":111.927395113,"data":"nuscenes_mini_subset 8/80 scene-0103_007\n"}
+,{"stream_name":"stdout","time":112.168530631,"data":"nuscenes_mini_subset 9/80 scene-0103_008\n"}
+,{"stream_name":"stdout","time":112.37141604,"data":"nuscenes_mini_subset 9/80 scene-0103_008\n"}
+,{"stream_name":"stdout","time":112.611246282,"data":"nuscenes_mini_subset 10/80 scene-0103_009\n"}
+,{"stream_name":"stdout","time":112.814000984,"data":"nuscenes_mini_subset 10/80 scene-0103_009\n"}
+,{"stream_name":"stdout","time":113.050248077,"data":"nuscenes_mini_subset 11/80 scene-0103_010\n"}
+,{"stream_name":"stdout","time":113.253148348,"data":"nuscenes_mini_subset 11/80 scene-0103_010\n"}
+,{"stream_name":"stdout","time":113.49730401,"data":"nuscenes_mini_subset 12/80 scene-0103_011\n"}
+,{"stream_name":"stdout","time":113.700814495,"data":"nuscenes_mini_subset 12/80 scene-0103_011\n"}
+,{"stream_name":"stdout","time":113.934661624,"data":"nuscenes_mini_subset 13/80 scene-0103_012\n"}
+,{"stream_name":"stdout","time":114.137692582,"data":"nuscenes_mini_subset 13/80 scene-0103_012\n"}
+,{"stream_name":"stdout","time":114.389284573,"data":"nuscenes_mini_subset 14/80 scene-0103_013\n"}
+,{"stream_name":"stdout","time":114.592218003,"data":"nuscenes_mini_subset 14/80 scene-0103_013\n"}
+,{"stream_name":"stdout","time":114.846048256,"data":"nuscenes_mini_subset 15/80 scene-0103_014\n"}
+,{"stream_name":"stdout","time":115.049168134,"data":"nuscenes_mini_subset 15/80 scene-0103_014\n"}
+,{"stream_name":"stdout","time":115.302446599,"data":"nuscenes_mini_subset 16/80 scene-0103_015\n"}
+,{"stream_name":"stdout","time":115.505985379,"data":"nuscenes_mini_subset 16/80 scene-0103_015\n"}
+,{"stream_name":"stdout","time":115.75587459,"data":"nuscenes_mini_subset 17/80 scene-0103_016\n"}
+,{"stream_name":"stdout","time":115.958705998,"data":"nuscenes_mini_subset 17/80 scene-0103_016\n"}
+,{"stream_name":"stdout","time":116.217305082,"data":"nuscenes_mini_subset 18/80 scene-0103_017\n"}
+,{"stream_name":"stdout","time":116.420305739,"data":"nuscenes_mini_subset 18/80 scene-0103_017\n"}
+,{"stream_name":"stdout","time":116.691025832,"data":"nuscenes_mini_subset 19/80 scene-0103_018\n"}
+,{"stream_name":"stdout","time":116.893977219,"data":"nuscenes_mini_subset 19/80 scene-0103_018\n"}
+,{"stream_name":"stdout","time":117.167327055,"data":"nuscenes_mini_subset 20/80 scene-0103_019\n"}
+,{"stream_name":"stdout","time":117.37028941,"data":"nuscenes_mini_subset 20/80 scene-0103_019\n"}
+,{"stream_name":"stdout","time":117.653479655,"data":"nuscenes_mini_subset 21/80 scene-0103_020\n"}
+,{"stream_name":"stdout","time":117.856272773,"data":"nuscenes_mini_subset 21/80 scene-0103_020\n"}
+,{"stream_name":"stdout","time":118.140901138,"data":"nuscenes_mini_subset 22/80 scene-0103_021\n"}
+,{"stream_name":"stdout","time":118.343760683,"data":"nuscenes_mini_subset 22/80 scene-0103_021\n"}
+,{"stream_name":"stdout","time":118.627516552,"data":"nuscenes_mini_subset 23/80 scene-0103_022\n"}
+,{"stream_name":"stdout","time":118.830496309,"data":"nuscenes_mini_subset 23/80 scene-0103_022\n"}
+,{"stream_name":"stdout","time":119.105953923,"data":"nuscenes_mini_subset 24/80 scene-0103_023\n"}
+,{"stream_name":"stdout","time":119.308980719,"data":"nuscenes_mini_subset 24/80 scene-0103_023\n"}
+,{"stream_name":"stdout","time":119.587711246,"data":"nuscenes_mini_subset 25/80 scene-0103_024\n"}
+,{"stream_name":"stdout","time":119.790796656,"data":"nuscenes_mini_subset 25/80 scene-0103_024\n"}
+,{"stream_name":"stdout","time":120.077483853,"data":"nuscenes_mini_subset 26/80 scene-0103_025\n"}
+,{"stream_name":"stdout","time":120.280672421,"data":"nuscenes_mini_subset 26/80 scene-0103_025\n"}
+,{"stream_name":"stdout","time":120.562128138,"data":"nuscenes_mini_subset 27/80 scene-0103_026\n"}
+,{"stream_name":"stdout","time":120.764764031,"data":"nuscenes_mini_subset 27/80 scene-0103_026\n"}
+,{"stream_name":"stdout","time":121.086712521,"data":"nuscenes_mini_subset 28/80 scene-0103_027\n"}
+,{"stream_name":"stdout","time":121.289893737,"data":"nuscenes_mini_subset 28/80 scene-0103_027\n"}
+,{"stream_name":"stdout","time":121.554459819,"data":"nuscenes_mini_subset 29/80 scene-0103_028\n"}
+,{"stream_name":"stdout","time":121.757250067,"data":"nuscenes_mini_subset 29/80 scene-0103_028\n"}
+,{"stream_name":"stdout","time":122.018682336,"data":"nuscenes_mini_subset 30/80 scene-0103_029\n"}
+,{"stream_name":"stdout","time":122.221543428,"data":"nuscenes_mini_subset 30/80 scene-0103_029\n"}
+,{"stream_name":"stdout","time":122.474520302,"data":"nuscenes_mini_subset 31/80 scene-0103_030\n"}
+,{"stream_name":"stdout","time":122.677502492,"data":"nuscenes_mini_subset 31/80 scene-0103_030\n"}
+,{"stream_name":"stdout","time":122.9259855,"data":"nuscenes_mini_subset 32/80 scene-0103_031\n"}
+,{"stream_name":"stdout","time":123.138409502,"data":"nuscenes_mini_subset 32/80 scene-0103_031\n"}
+,{"stream_name":"stdout","time":123.378902673,"data":"nuscenes_mini_subset 33/80 scene-0103_032\n"}
+,{"stream_name":"stdout","time":123.581851999,"data":"nuscenes_mini_subset 33/80 scene-0103_032\n"}
+,{"stream_name":"stdout","time":123.82058164,"data":"nuscenes_mini_subset 34/80 scene-0103_033\n"}
+,{"stream_name":"stdout","time":124.023976255,"data":"nuscenes_mini_subset 34/80 scene-0103_033\n"}
+,{"stream_name":"stdout","time":124.269350394,"data":"nuscenes_mini_subset 35/80 scene-0103_034\n"}
+,{"stream_name":"stdout","time":124.472402402,"data":"nuscenes_mini_subset 35/80 scene-0103_034\n"}
+,{"stream_name":"stdout","time":124.714704918,"data":"nuscenes_mini_subset 36/80 scene-0103_035\n"}
+,{"stream_name":"stdout","time":124.917435622,"data":"nuscenes_mini_subset 36/80 scene-0103_035\n"}
+,{"stream_name":"stdout","time":125.164208649,"data":"nuscenes_mini_subset 37/80 scene-0103_036\n"}
+,{"stream_name":"stdout","time":125.367402599,"data":"nuscenes_mini_subset 37/80 scene-0103_036\n"}
+,{"stream_name":"stdout","time":125.614148089,"data":"nuscenes_mini_subset 38/80 scene-0103_037\n"}
+,{"stream_name":"stdout","time":125.816927726,"data":"nuscenes_mini_subset 38/80 scene-0103_037\n"}
+,{"stream_name":"stdout","time":126.047172257,"data":"nuscenes_mini_subset 39/80 scene-0103_038\n"}
+,{"stream_name":"stdout","time":126.250242181,"data":"nuscenes_mini_subset 39/80 scene-0103_038\n"}
+,{"stream_name":"stdout","time":126.462523804,"data":"nuscenes_mini_subset 40/80 scene-0103_039\n"}
+,{"stream_name":"stdout","time":126.665485468,"data":"nuscenes_mini_subset 40/80 scene-0103_039\n"}
+,{"stream_name":"stdout","time":126.907634468,"data":"nuscenes_mini_subset 41/80 scene-1094_000\n"}
+,{"stream_name":"stdout","time":127.11065613,"data":"nuscenes_mini_subset 41/80 scene-1094_000\n"}
+,{"stream_name":"stdout","time":127.36478639,"data":"nuscenes_mini_subset 42/80 scene-1094_001\n"}
+,{"stream_name":"stdout","time":127.567972844,"data":"nuscenes_mini_subset 42/80 scene-1094_001\n"}
+,{"stream_name":"stdout","time":127.829493138,"data":"nuscenes_mini_subset 43/80 scene-1094_002\n"}
+,{"stream_name":"stdout","time":128.03244505,"data":"nuscenes_mini_subset 43/80 scene-1094_002\n"}
+,{"stream_name":"stdout","time":128.309609377,"data":"nuscenes_mini_subset 44/80 scene-1094_003\n"}
+,{"stream_name":"stdout","time":128.512661081,"data":"nuscenes_mini_subset 44/80 scene-1094_003\n"}
+,{"stream_name":"stdout","time":128.776595519,"data":"nuscenes_mini_subset 45/80 scene-1094_004\n"}
+,{"stream_name":"stdout","time":128.979472735,"data":"nuscenes_mini_subset 45/80 scene-1094_004\n"}
+,{"stream_name":"stdout","time":129.245782162,"data":"nuscenes_mini_subset 46/80 scene-1094_005\n"}
+,{"stream_name":"stdout","time":129.448826523,"data":"nuscenes_mini_subset 46/80 scene-1094_005\n"}
+,{"stream_name":"stdout","time":129.71951887,"data":"nuscenes_mini_subset 47/80 scene-1094_006\n"}
+,{"stream_name":"stdout","time":129.922448545,"data":"nuscenes_mini_subset 47/80 scene-1094_006\n"}
+,{"stream_name":"stdout","time":130.188873687,"data":"nuscenes_mini_subset 48/80 scene-1094_007\n"}
+,{"stream_name":"stdout","time":130.391896627,"data":"nuscenes_mini_subset 48/80 scene-1094_007\n"}
+,{"stream_name":"stdout","time":130.661549854,"data":"nuscenes_mini_subset 49/80 scene-1094_008\n"}
+,{"stream_name":"stdout","time":130.864822059,"data":"nuscenes_mini_subset 49/80 scene-1094_008\n"}
+,{"stream_name":"stdout","time":131.172552443,"data":"nuscenes_mini_subset 50/80 scene-1094_009\n"}
+,{"stream_name":"stdout","time":131.375299492,"data":"nuscenes_mini_subset 50/80 scene-1094_009\n"}
+,{"stream_name":"stdout","time":131.624028929,"data":"nuscenes_mini_subset 51/80 scene-1094_010\n"}
+,{"stream_name":"stdout","time":131.826893451,"data":"nuscenes_mini_subset 51/80 scene-1094_010\n"}
+,{"stream_name":"stdout","time":132.071046809,"data":"nuscenes_mini_subset 52/80 scene-1094_011\n"}
+,{"stream_name":"stdout","time":132.274120097,"data":"nuscenes_mini_subset 52/80 scene-1094_011\n"}
+,{"stream_name":"stdout","time":132.523567367,"data":"nuscenes_mini_subset 53/80 scene-1094_012\n"}
+,{"stream_name":"stdout","time":132.726232068,"data":"nuscenes_mini_subset 53/80 scene-1094_012\n"}
+,{"stream_name":"stdout","time":132.974586518,"data":"nuscenes_mini_subset 54/80 scene-1094_013\n"}
+,{"stream_name":"stdout","time":133.177470121,"data":"nuscenes_mini_subset 54/80 scene-1094_013\n"}
+,{"stream_name":"stdout","time":133.415299917,"data":"nuscenes_mini_subset 55/80 scene-1094_014\n"}
+,{"stream_name":"stdout","time":133.61845134,"data":"nuscenes_mini_subset 55/80 scene-1094_014\n"}
+,{"stream_name":"stdout","time":133.863661103,"data":"nuscenes_mini_subset 56/80 scene-1094_015\n"}
+,{"stream_name":"stdout","time":134.066411991,"data":"nuscenes_mini_subset 56/80 scene-1094_015\n"}
+,{"stream_name":"stdout","time":134.303259316,"data":"nuscenes_mini_subset 57/80 scene-1094_016\n"}
+,{"stream_name":"stdout","time":134.506328002,"data":"nuscenes_mini_subset 57/80 scene-1094_016\n"}
+,{"stream_name":"stdout","time":134.735873602,"data":"nuscenes_mini_subset 58/80 scene-1094_017\n"}
+,{"stream_name":"stdout","time":134.938684321,"data":"nuscenes_mini_subset 58/80 scene-1094_017\n"}
+,{"stream_name":"stdout","time":135.170672018,"data":"nuscenes_mini_subset 59/80 scene-1094_018\n"}
+,{"stream_name":"stdout","time":135.373556648,"data":"nuscenes_mini_subset 59/80 scene-1094_018\n"}
+,{"stream_name":"stdout","time":135.6063195,"data":"nuscenes_mini_subset 60/80 scene-1094_019\n"}
+,{"stream_name":"stdout","time":135.809173146,"data":"nuscenes_mini_subset 60/80 scene-1094_019\n"}
+,{"stream_name":"stdout","time":136.046075424,"data":"nuscenes_mini_subset 61/80 scene-1094_020\n"}
+,{"stream_name":"stdout","time":136.249007683,"data":"nuscenes_mini_subset 61/80 scene-1094_020\n"}
+,{"stream_name":"stdout","time":136.48125893,"data":"nuscenes_mini_subset 62/80 scene-1094_021\n"}
+,{"stream_name":"stdout","time":136.684100609,"data":"nuscenes_mini_subset 62/80 scene-1094_021\n"}
+,{"stream_name":"stdout","time":136.907209268,"data":"nuscenes_mini_subset 63/80 scene-1094_022\n"}
+,{"stream_name":"stdout","time":137.110139328,"data":"nuscenes_mini_subset 63/80 scene-1094_022\n"}
+,{"stream_name":"stdout","time":137.339798363,"data":"nuscenes_mini_subset 64/80 scene-1094_023\n"}
+,{"stream_name":"stdout","time":137.542943872,"data":"nuscenes_mini_subset 64/80 scene-1094_023\n"}
+,{"stream_name":"stdout","time":137.771814417,"data":"nuscenes_mini_subset 65/80 scene-1094_024\n"}
+,{"stream_name":"stdout","time":137.974617885,"data":"nuscenes_mini_subset 65/80 scene-1094_024\n"}
+,{"stream_name":"stdout","time":138.205139539,"data":"nuscenes_mini_subset 66/80 scene-1094_025\n"}
+,{"stream_name":"stdout","time":138.408264937,"data":"nuscenes_mini_subset 66/80 scene-1094_025\n"}
+,{"stream_name":"stdout","time":138.628455844,"data":"nuscenes_mini_subset 67/80 scene-1094_026\n"}
+,{"stream_name":"stdout","time":138.83119846,"data":"nuscenes_mini_subset 67/80 scene-1094_026\n"}
+,{"stream_name":"stdout","time":139.055845766,"data":"nuscenes_mini_subset 68/80 scene-1094_027\n"}
+,{"stream_name":"stdout","time":139.258727661,"data":"nuscenes_mini_subset 68/80 scene-1094_027\n"}
+,{"stream_name":"stdout","time":139.484789448,"data":"nuscenes_mini_subset 69/80 scene-1094_028\n"}
+,{"stream_name":"stdout","time":139.687408253,"data":"nuscenes_mini_subset 69/80 scene-1094_028\n"}
+,{"stream_name":"stdout","time":139.906716281,"data":"nuscenes_mini_subset 70/80 scene-1094_029\n"}
+,{"stream_name":"stdout","time":140.109527557,"data":"nuscenes_mini_subset 70/80 scene-1094_029\n"}
+,{"stream_name":"stdout","time":140.323972893,"data":"nuscenes_mini_subset 71/80 scene-1094_030\n"}
+,{"stream_name":"stdout","time":140.528235877,"data":"nuscenes_mini_subset 71/80 scene-1094_030\n"}
+,{"stream_name":"stdout","time":140.733715397,"data":"nuscenes_mini_subset 72/80 scene-1094_031\n"}
+,{"stream_name":"stdout","time":140.936734478,"data":"nuscenes_mini_subset 72/80 scene-1094_031\n"}
+,{"stream_name":"stdout","time":141.195886501,"data":"nuscenes_mini_subset 73/80 scene-1094_032\n"}
+,{"stream_name":"stdout","time":141.398947123,"data":"nuscenes_mini_subset 73/80 scene-1094_032\n"}
+,{"stream_name":"stdout","time":141.613491326,"data":"nuscenes_mini_subset 74/80 scene-1094_033\n"}
+,{"stream_name":"stdout","time":141.816399427,"data":"nuscenes_mini_subset 74/80 scene-1094_033\n"}
+,{"stream_name":"stdout","time":142.024578237,"data":"nuscenes_mini_subset 75/80 scene-1094_034\n"}
+,{"stream_name":"stdout","time":142.227646478,"data":"nuscenes_mini_subset 75/80 scene-1094_034\n"}
+,{"stream_name":"stdout","time":142.43483367,"data":"nuscenes_mini_subset 76/80 scene-1094_035\n"}
+,{"stream_name":"stdout","time":142.637983166,"data":"nuscenes_mini_subset 76/80 scene-1094_035\n"}
+,{"stream_name":"stdout","time":142.846523201,"data":"nuscenes_mini_subset 77/80 scene-1094_036\n"}
+,{"stream_name":"stdout","time":143.049604702,"data":"nuscenes_mini_subset 77/80 scene-1094_036\n"}
+,{"stream_name":"stdout","time":143.275766301,"data":"nuscenes_mini_subset 78/80 scene-1094_037\n"}
+,{"stream_name":"stdout","time":143.478545712,"data":"nuscenes_mini_subset 78/80 scene-1094_037\n"}
+,{"stream_name":"stdout","time":143.696744548,"data":"nuscenes_mini_subset 79/80 scene-1094_038\n"}
+,{"stream_name":"stdout","time":143.899451719,"data":"nuscenes_mini_subset 79/80 scene-1094_038\n"}
+,{"stream_name":"stdout","time":144.107792132,"data":"nuscenes_mini_subset 80/80 scene-1094_039\n"}
+,{"stream_name":"stdout","time":144.310636603,"data":"nuscenes_mini_subset 80/80 scene-1094_039\n"}
+,{"stream_name":"stdout","time":144.425492436,"data":"synthetic 1/5 000000\n"}
+,{"stream_name":"stdout","time":144.628380743,"data":"synthetic 1/5 000000\n"}
+,{"stream_name":"stdout","time":144.739173576,"data":"synthetic 2/5 000001\n"}
+,{"stream_name":"stdout","time":144.941942405,"data":"synthetic 2/5 000001\n"}
+,{"stream_name":"stdout","time":145.057103093,"data":"synthetic 3/5 000002\n"}
+,{"stream_name":"stdout","time":145.259678051,"data":"synthetic 3/5 000002\n"}
+,{"stream_name":"stdout","time":145.340509896,"data":"synthetic 4/5 000003\n"}
+,{"stream_name":"stdout","time":145.543269853,"data":"synthetic 4/5 000003\n"}
+,{"stream_name":"stdout","time":145.656002295,"data":"synthetic 5/5 000004\n"}
+,{"stream_name":"stdout","time":145.858584173,"data":"synthetic 5/5 000004\n"}
+,{"stream_name":"stdout","time":158.624274939,"data":"Complete: /kaggle/working/results/topic_a_20261008T001923Z_fc959e59. Read score_evaluation.json and fail_01_facts.json before making claims.\n"}
+,{"stream_name":"stdout","time":158.839876884,"data":"Complete: /kaggle/working/results/topic_a_20261008T001923Z_fc959e59. Read score_evaluation.json and fail_01_facts.json before making claims.\n"}
+,{"stream_name":"stdout","time":159.126840004,"data":"{'status': 'complete', 'frame_configs': 4515, 'object_configs': 56674, 'elapsed_scope': 'No training; all listed frames evaluated.', 'caveats': ['nuScenes 2D bbox is generated from 3D labels, not independent 2D ground truth.', 'nuScenes KITTI-style upright box conversion is approximate (full orientation is lost).', 'Ego motion compensation is enabled; dynamic object motion between sensor timestamps is not compensated.', 'Membership is fixed per baseline object; overlapping 3D boxes may share points.', 'Frame split is within-seen-scenes only, deterministic and stratified by dataset/scene; adjacent frames are correlated. No unseen-scene generalization claim.', 'Synthetic calibration perturbations measure sensitivity, not validated real-world drift detection.', 'Canny score median uses candidate-visible fixed samples; changing coverage can bias it. Lower is better.', 'Canny heuristic matches projected points to image edges, not depth-edge to image-edge alignment; not a validated alignment metric.', 'Fewer than 30 candidate-visible fixed samples: coverage_insufficient, unscorable; fixed rule, no test tuning.', 'Perturbation axes are LiDAR native. Yaw is about z-up in both datasets; roll/pitch and x/y translations do not represent the same physical direction across KITTI and nuScenes.', 'Zero is an unperturbed control, not proof that dataset calibration/labels are perfect.']}\n"}
+,{"stream_name":"stdout","time":159.26841539,"data":"Failure selected by: Test score misses synthetic drift (or score unavailable); largest common-valid mean displacement.\n"}
+,{"stream_name":"stdout","time":159.2684625,"data":"{\n"}
+,{"stream_name":"stdout","time":159.268468104,"data":"  \"dataset\": \"nuscenes_mini_subset\",\n"}
+,{"stream_name":"stdout","time":159.268472599,"data":"  \"frame\": \"scene-1094_015\",\n"}
+,{"stream_name":"stdout","time":159.268477178,"data":"  \"split\": \"test\",\n"}
+,{"stream_name":"stdout","time":159.268480978,"data":"  \"config\": \"yaw_-3\",\n"}
+,{"stream_name":"stdout","time":159.268484719,"data":"  \"factor\": \"yaw\",\n"}
+,{"stream_name":"stdout","time":159.268488422,"data":"  \"value\": -3.0,\n"}
+,{"stream_name":"stdout","time":159.268491986,"data":"  \"unit\": \"deg\",\n"}
+,{"stream_name":"stdout","time":159.268512452,"data":"  \"n_points\": 34752,\n"}
+,{"stream_name":"stdout","time":159.268515854,"data":"  \"invalid_xyz\": 0,\n"}
+,{"stream_name":"stdout","time":159.268518957,"data":"  \"baseline_inside_count\": 2825,\n"}
+,{"stream_name":"stdout","time":159.268522089,"data":"  \"inside_count\": 2816,\n"}
+,{"stream_name":"stdout","time":159.268525152,"data":"  \"inside_fov\": 0.0810313076,\n"}
+,{"stream_name":"stdout","time":159.268528232,"data":"  \"fov_change\": -0.0002589779,\n"}
+,{"stream_name":"stdout","time":159.268531152,"data":"  \"common_valid\": 2638,\n"}
+,{"stream_name":"stdout","time":159.268534127,"data":"  \"common_coverage\": 0.9338053097,\n"}
+,{"stream_name":"stdout","time":159.268537092,"data":"  \"displacement_sum_px\": 207468.5601466435,\n"}
+,{"stream_name":"stdout","time":159.268540386,"data":"  \"displacement_mean_px\": 78.6461562345,\n"}
+,{"stream_name":"stdout","time":159.268543312,"data":"  \"displacement_median_px\": 77.0409887412,\n"}
+,{"stream_name":"stdout","time":159.268546237,"data":"  \"displacement_p95_px\": 91.9650012214,\n"}
+,{"stream_name":"stdout","time":159.268549138,"data":"  \"bbox_hits\": 347,\n"}
+,{"stream_name":"stdout","time":159.268552109,"data":"  \"baseline_visible_assigned\": 479,\n"}
+,{"stream_name":"stdout","time":159.268555072,"data":"  \"association_micro\": 0.7244258873,\n"}
+,{"stream_name":"stdout","time":159.268558755,"data":"  \"association_macro\": 0.6496686389,\n"}
+,{"stream_name":"stdout","time":159.268561699,"data":"  \"edge_score\": 0.0147078372,\n"}
+,{"stream_name":"stdout","time":159.268564667,"data":"  \"score_sample_count\": 4096,\n"}
+,{"stream_name":"stdout","time":159.268567618,"data":"  \"score_visible_count\": 351,\n"}
+,{"stream_name":"stdout","time":159.2685705,"data":"  \"score_status\": \"ok\",\n"}
+,{"stream_name":"stdout","time":159.268573454,"data":"  \"score_coverage\": 0.0856933594,\n"}
+,{"stream_name":"stdout","time":159.268576354,"data":"  \"sensor_time_delta_ms\": -35.995,\n"}
+,{"stream_name":"stdout","time":159.268579327,"data":"  \"threshold\": 0.0367281641,\n"}
+,{"stream_name":"stdout","time":159.268582242,"data":"  \"threshold_available\": true,\n"}
+,{"stream_name":"stdout","time":159.268585132,"data":"  \"score_available\": true,\n"}
+,{"stream_name":"stdout","time":159.268587983,"data":"  \"detected\": false,\n"}
+,{"stream_name":"stdout","time":159.268590824,"data":"  \"is_perturbed\": true\n"}
+,{"stream_name":"stdout","time":159.268593738,"data":"}\n"}
+,{"stream_name":"stdout","time":159.268596609,"data":"fail_01_nuscenes_mini_subset_scene-1094_015_yaw_-3.png\n"}
+,{"stream_name":"stdout","time":159.466177788,"data":"overlay_kitti_far_000019.png\n"}
+,{"stream_name":"stdout","time":159.484249142,"data":"overlay_kitti_mid_000010.png\n"}
+,{"stream_name":"stdout","time":159.502547471,"data":"overlay_kitti_near_000008.png\n"}
+,{"stream_name":"stdout","time":159.520765113,"data":"overlay_nuscenes_day_scene-0103_020.png\n"}
+,{"stream_name":"stdout","time":159.554838423,"data":"overlay_nuscenes_night_scene-1094_020.png\n"}
+,{"stream_name":"stdout","time":159.607455895,"data":"score_roc_threshold.png\n"}
+,{"stream_name":"stdout","time":159.611161789,"data":"sweep_kitti_mini_angles.png\n"}
+,{"stream_name":"stdout","time":159.617156707,"data":"sweep_kitti_mini_translation.png\n"}
+,{"stream_name":"stdout","time":159.623448309,"data":"sweep_nuscenes_mini_subset_angles.png\n"}
+,{"stream_name":"stdout","time":159.630254969,"data":"sweep_nuscenes_mini_subset_translation.png\n"}
+,{"stream_name":"stdout","time":159.637030738,"data":"sweep_synthetic_angles.png\n"}
+,{"stream_name":"stdout","time":159.643387432,"data":"sweep_synthetic_translation.png\n"}
+,{"stream_name":"stderr","time":163.722230819,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":163.722271184,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":163.940260062,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":163.940293667,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":164.898200061,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":165.340912945,"data":"[NbConvertApp] Writing 18596733 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":168.813129922,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":169.771754814,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":169.771792752,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.773977245,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.774428169,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.774806477,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.775228408,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.775917805,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.776943916,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.77708697,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.777389594,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.777621531,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.777862227,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.778133859,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.778384011,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":169.778659865,"data":"[NbConvertApp] Writing 495781 bytes to __results__.html\n"}
+]

@@ -1,0 +1,40 @@
+{
+  "verified_at_utc": "2026-10-08T00:23:02.970329+00:00",
+  "kernel": "thngonquang/track4-day21-lidar-camera-calibration",
+  "version": 1,
+  "observed_status": "COMPLETE",
+  "artifact_directory": "results/kaggle_v1_20261008/results/topic_a_20261008T001923Z_fc959e59",
+  "local_artifact_directory": "results/topic_a_local_20261008",
+  "tests_passed": 13,
+  "frame_counts": {
+    "kitti_mini": 20,
+    "nuscenes_mini_subset": 80,
+    "synthetic": 5
+  },
+  "configurations_per_frame": 43,
+  "frame_config_rows": 4515,
+  "object_config_rows": 56674,
+  "unique_frame_config_keys": true,
+  "source_hashes_match_local": true,
+  "data_files_hash_match_local": 276,
+  "csv_hashes_match_manifest": true,
+  "summary_matches_local": {
+    "rtol": 1e-07,
+    "atol": 1e-10
+  },
+  "data_revision": "bce73adec3dbd09b2869ed2061513328ee228272",
+  "source_hashes": {
+    "starter/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "starter/data_health.py": "7ff78a3e4b73c32c153855949125d1defffc0753629f51190a276d3b0e5afbd5",
+    "starter/datasets.py": "b24cd72db6fa07073ea5a9caa84988a83142f9e9d9af62f2b1bfc6b30be130d4",
+    "starter/kitti_io.py": "b4de0a271a21da12d55691585abbcb2d08b1557bd2974a51709085570e7a84fd",
+    "starter/nuscenes_io.py": "f9c5369d672d04578001833c38abaef97559b797316ee7c02fc1f46bd8111b7e",
+    "starter/perturb.py": "24eb4be500ea78c49f038c0fdf17a9620376641ca8d642ca834e3e12547da9b5",
+    "starter/projection.py": "40c5e7d157979abf0dbcaef5d1bc80ec418390a0346d8482b06d2f9ff2730211",
+    "src/__init__.py": "cc7a57dadb684810a7ebe9cb3acc1f6c6035f8f37051dcfbbe0778a8b0f62e4e",
+    "src/calibration_benchmark.py": "aa4ba3b3cbcde0671126be92329c30abbbce238896c4d2828a7ce525c76d4648",
+    "src/tests/test_projection.py": "60008efaad846b3e923b84c517969e6cd72a9ef3da93b170babed7aa40958f5f"
+  },
+  "log_sha256": "0f1ece5b749f2cb42185ffd84f096baff3c5554f9f776a8768fc2647bd2d2268",
+  "scope": "Local and Kaggle execution verified; no Git commit/push or LMS submission performed."
+}

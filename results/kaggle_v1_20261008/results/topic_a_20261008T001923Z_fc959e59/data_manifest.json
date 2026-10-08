@@ -1,0 +1,1934 @@
+[
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/MANIFEST.json",
+    "relative_path": "MANIFEST.json",
+    "bytes": 11407,
+    "sha256": "3b3d8fedd412234c882204226a72d225d728be4f1f5cd8a083131e0d35e95228"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000001.txt",
+    "relative_path": "training/calib/000001.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000004.txt",
+    "relative_path": "training/calib/000004.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000007.txt",
+    "relative_path": "training/calib/000007.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000008.txt",
+    "relative_path": "training/calib/000008.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000009.txt",
+    "relative_path": "training/calib/000009.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000010.txt",
+    "relative_path": "training/calib/000010.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000011.txt",
+    "relative_path": "training/calib/000011.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000012.txt",
+    "relative_path": "training/calib/000012.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000015.txt",
+    "relative_path": "training/calib/000015.txt",
+    "bytes": 1614,
+    "sha256": "d567fe1ef88e37cbaa49772533db1c72ecc4094f243c952a436e77950ba74cab"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000016.txt",
+    "relative_path": "training/calib/000016.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000019.txt",
+    "relative_path": "training/calib/000019.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000021.txt",
+    "relative_path": "training/calib/000021.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000023.txt",
+    "relative_path": "training/calib/000023.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000025.txt",
+    "relative_path": "training/calib/000025.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000031.txt",
+    "relative_path": "training/calib/000031.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000032.txt",
+    "relative_path": "training/calib/000032.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000043.txt",
+    "relative_path": "training/calib/000043.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000048.txt",
+    "relative_path": "training/calib/000048.txt",
+    "bytes": 1614,
+    "sha256": "d567fe1ef88e37cbaa49772533db1c72ecc4094f243c952a436e77950ba74cab"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000049.txt",
+    "relative_path": "training/calib/000049.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/calib/000061.txt",
+    "relative_path": "training/calib/000061.txt",
+    "bytes": 1613,
+    "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000001.png",
+    "relative_path": "training/image_2/000001.png",
+    "bytes": 735973,
+    "sha256": "40acaf855260376103a5e0d97e9dce15d51811c0f419ff308e948fefdd880bf6"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000004.png",
+    "relative_path": "training/image_2/000004.png",
+    "bytes": 846037,
+    "sha256": "f42249a1beb2beac156ffce53fadba1df300b1144484880f20f7a75393474e65"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000007.png",
+    "relative_path": "training/image_2/000007.png",
+    "bytes": 814308,
+    "sha256": "2675d702a65b2cda45e8dc19df8478ed26b24186d236246c97ebc5bac3d5df0d"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000008.png",
+    "relative_path": "training/image_2/000008.png",
+    "bytes": 886551,
+    "sha256": "5b988d2a04d51850610b38ce50a66fd4027f3f5e645e5f2198d0522f4cf9a640"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000009.png",
+    "relative_path": "training/image_2/000009.png",
+    "bytes": 751971,
+    "sha256": "ef18e8f93de15fec1f30055046d273823b8cbfc71a538f72dabce0e5776bbe2e"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000010.png",
+    "relative_path": "training/image_2/000010.png",
+    "bytes": 825833,
+    "sha256": "123b58ce5608eae25b96fb159956b98a092f99f8e4da566c29cbf279e75d420b"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000011.png",
+    "relative_path": "training/image_2/000011.png",
+    "bytes": 878179,
+    "sha256": "3a2cb160a89c005dcd2ade961a1f5121ca669ce899a813c843c2d52ddf07b2db"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000012.png",
+    "relative_path": "training/image_2/000012.png",
+    "bytes": 845173,
+    "sha256": "519f490c0fa58f327dcecf0e0f22decdfa064d9c1611b51e7d4fa6979161a942"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000015.png",
+    "relative_path": "training/image_2/000015.png",
+    "bytes": 848948,
+    "sha256": "8a962985fa3235854134daed53f0529dde59794640f4ccfe8ef53f4257b7b04b"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000016.png",
+    "relative_path": "training/image_2/000016.png",
+    "bytes": 786280,
+    "sha256": "a55b69f446a307007c2bb7adc7aa579146d0c5bb3a202177b20090fc770fad3a"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000019.png",
+    "relative_path": "training/image_2/000019.png",
+    "bytes": 847663,
+    "sha256": "0b50ea16d24e51b7a1ab9d2ff3a439e3bde4f0d0c33cb416865c5ee943f4d3b4"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000021.png",
+    "relative_path": "training/image_2/000021.png",
+    "bytes": 842636,
+    "sha256": "b26d89b487b9708f88fd6a3762ac863b35703cf9337d336b0a6614e940dfb91e"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000023.png",
+    "relative_path": "training/image_2/000023.png",
+    "bytes": 734355,
+    "sha256": "c7cd94f8632af6681c6067bdbffc81a2e7fbd246a43cec583629833f6140e433"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000025.png",
+    "relative_path": "training/image_2/000025.png",
+    "bytes": 880470,
+    "sha256": "a9b483aa030b2ed7279b020d3b3d4eb5bc20d1b67c9425299dda1d8052d3db67"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000031.png",
+    "relative_path": "training/image_2/000031.png",
+    "bytes": 872765,
+    "sha256": "464b31b5ec3700ec64f8e291f242425eb8695cfb60512158015beb34ac74fc63"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000032.png",
+    "relative_path": "training/image_2/000032.png",
+    "bytes": 823459,
+    "sha256": "d18835c332dc87eac96b6735d2d0506ef6a99cbb1aeb79a190afe68fb20f3e38"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000043.png",
+    "relative_path": "training/image_2/000043.png",
+    "bytes": 881041,
+    "sha256": "9f1c29c2a5413db1c0f5845741cf7032c1955ee055c0b3b09cfdd1843b9ae97c"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000048.png",
+    "relative_path": "training/image_2/000048.png",
+    "bytes": 912548,
+    "sha256": "eaa56bfd18f86c68e5ad5cb22305bd45b75cd6f64ff2a13db016526810987578"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000049.png",
+    "relative_path": "training/image_2/000049.png",
+    "bytes": 931653,
+    "sha256": "b1a77764b89eb720a974b9c1079f68c37bcabfa7f32646709df715e5fb79a2fc"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/image_2/000061.png",
+    "relative_path": "training/image_2/000061.png",
+    "bytes": 874417,
+    "sha256": "35ef69284776e84bd7c6ad5ce7a5344a92bae830b52db3acee9022df11b537b6"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000001.txt",
+    "relative_path": "training/label_2/000001.txt",
+    "bytes": 565,
+    "sha256": "36eef20c544fb5cd648ea3144683a6f0e7a6869c94c1347cb7e6997e0253aefd"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000004.txt",
+    "relative_path": "training/label_2/000004.txt",
+    "bytes": 556,
+    "sha256": "6fefb725f4d61a748ab224ae425e8af5ba08b13d5e09544d4794724ad3c67bcb"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000007.txt",
+    "relative_path": "training/label_2/000007.txt",
+    "bytes": 487,
+    "sha256": "fedd52f3441728af4d1255d236aef649bcb3dbfd3859cc145fcd1fd22299d1d9"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000008.txt",
+    "relative_path": "training/label_2/000008.txt",
+    "bytes": 798,
+    "sha256": "a41a3f6d8025eac856fd9e04a2bb303bf971f2a38fe4993ebb9892e1daf6ad5a"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000009.txt",
+    "relative_path": "training/label_2/000009.txt",
+    "bytes": 399,
+    "sha256": "b42d42e30394ca789b607b757fc0e28ec676035d75c00425ee4ed2c53430a8b6"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000010.txt",
+    "relative_path": "training/label_2/000010.txt",
+    "bytes": 1050,
+    "sha256": "347e445a2d4ac82a78d947dc61ea9a8664abb28757f165384e9f65bca193f722"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000011.txt",
+    "relative_path": "training/label_2/000011.txt",
+    "bytes": 740,
+    "sha256": "a5a32a687fa6ffb9610c2007863f042b15e53dacc86765a4ca2d484ac9abfaed"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000012.txt",
+    "relative_path": "training/label_2/000012.txt",
+    "bytes": 398,
+    "sha256": "fb762a053a99946bb093c15b76552065fe8c5af379a6c64d8710aaab25de04db"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000015.txt",
+    "relative_path": "training/label_2/000015.txt",
+    "bytes": 824,
+    "sha256": "fa7f0b8145e1226fad4a3b09f3dbd7075cf129c5b1804f8db1188b717b1caec8"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000016.txt",
+    "relative_path": "training/label_2/000016.txt",
+    "bytes": 1753,
+    "sha256": "223280f4af065519671e0c527d088a409e661222b6c5b74fa222181ad3883aef"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000019.txt",
+    "relative_path": "training/label_2/000019.txt",
+    "bytes": 480,
+    "sha256": "13ed5097023151d5837c7425ca1322cf741f4b1b9e13b1d17c860e827d152f61"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000021.txt",
+    "relative_path": "training/label_2/000021.txt",
+    "bytes": 815,
+    "sha256": "43e1945fee2b98efd5e8e255a74f16911780934118a761adabb0b6efbcbb28ab"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000023.txt",
+    "relative_path": "training/label_2/000023.txt",
+    "bytes": 487,
+    "sha256": "76ccc5db2a660ff393be11bd56f17586dc31d97f4272d1959c4c7bdd4fc83fdc"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000025.txt",
+    "relative_path": "training/label_2/000025.txt",
+    "bytes": 726,
+    "sha256": "6f4b32340c834718b2a6b5baeab067e61e35c4ac94809170245060062b2e5fe0"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000031.txt",
+    "relative_path": "training/label_2/000031.txt",
+    "bytes": 730,
+    "sha256": "fcf46b019d8be09aff2f6f952864719bfca4877ae1fef350ab15607c5afc98f6"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000032.txt",
+    "relative_path": "training/label_2/000032.txt",
+    "bytes": 976,
+    "sha256": "5d1421f2b9a3e292eb376888fa181473357166740fc6a4fea28f69f74474cb7d"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000043.txt",
+    "relative_path": "training/label_2/000043.txt",
+    "bytes": 744,
+    "sha256": "53ce4edf054e9b691c44f832ef66d9b9b07251b7069abd81e1924239511ed060"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000048.txt",
+    "relative_path": "training/label_2/000048.txt",
+    "bytes": 821,
+    "sha256": "6f6c88020455a2b46d6e9d2892cb8012205723961f90fd5eccf4f530b2b0fb06"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000049.txt",
+    "relative_path": "training/label_2/000049.txt",
+    "bytes": 1568,
+    "sha256": "9b3e5df668cf83887cfb52952144fe7543874c15ae515ff167ce5e0414e3c0e4"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/label_2/000061.txt",
+    "relative_path": "training/label_2/000061.txt",
+    "bytes": 647,
+    "sha256": "c90ef4ad9ccab57981d9cafd5e1b11cf2816fedcdcd10eab55d061fa824caae4"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000001.bin",
+    "relative_path": "training/velodyne/000001.bin",
+    "bytes": 1924288,
+    "sha256": "59a02fdaaab3b7e903713cb618e8f53efcaf71c144436ddfcdf4f28bdbd73d20"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000004.bin",
+    "relative_path": "training/velodyne/000004.bin",
+    "bytes": 1855616,
+    "sha256": "abf2115e0a0b34f75db89d7014c58edaf2873be6cd3acc3b1582ea269b881938"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000007.bin",
+    "relative_path": "training/velodyne/000007.bin",
+    "bytes": 1964768,
+    "sha256": "91dbcd9225fa834d52f442871346e8b08938eb758106e8c1f18f8904351b92c4"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000008.bin",
+    "relative_path": "training/velodyne/000008.bin",
+    "bytes": 1960880,
+    "sha256": "9db1fe26d240917dfd64e6125f77a78f7cff6aa4bd5b8eb87f73fbd7a789dd98"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000009.bin",
+    "relative_path": "training/velodyne/000009.bin",
+    "bytes": 1982848,
+    "sha256": "4268927ed1871b2c5b7f90c13709a1d672912658c7f7d05f60ba788f780e370a"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000010.bin",
+    "relative_path": "training/velodyne/000010.bin",
+    "bytes": 1854000,
+    "sha256": "72573b49dc3ea8f3a75b43781f1c11f75c27e6e96c60ff096b7e5cce654ada78"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000011.bin",
+    "relative_path": "training/velodyne/000011.bin",
+    "bytes": 1728064,
+    "sha256": "e5b3f5b81dbf189743885fefc6cada966946282c42914a63fb04704983732f01"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000012.bin",
+    "relative_path": "training/velodyne/000012.bin",
+    "bytes": 1920112,
+    "sha256": "b498bbc27c7094d34c57ef8a626101f8639280d8d48fd14bb51969a6e6c27361"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000015.bin",
+    "relative_path": "training/velodyne/000015.bin",
+    "bytes": 1961328,
+    "sha256": "a8c0cbb7cdea8d03602ef4afb64db16aedc8a6d479a09c38061011b320ceb8bb"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000016.bin",
+    "relative_path": "training/velodyne/000016.bin",
+    "bytes": 1809120,
+    "sha256": "e1547ea661f05ad17d3722b52f49fec0d5472e6a20ba5c8be3d8e8a7016af00a"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000019.bin",
+    "relative_path": "training/velodyne/000019.bin",
+    "bytes": 1851152,
+    "sha256": "b7e8722e97e6b9452c47a0d8bcd3705c0de0cc515093130cf9beeea36ff7d070"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000021.bin",
+    "relative_path": "training/velodyne/000021.bin",
+    "bytes": 2004160,
+    "sha256": "e9765463b344d7143d64d0afbc6e80c41811a29a0b4ac404e6337ade85d4f135"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000023.bin",
+    "relative_path": "training/velodyne/000023.bin",
+    "bytes": 1926592,
+    "sha256": "90157533af66d7957e231653e46f23b462c314e645026d4ae851c11c085da2cc"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000025.bin",
+    "relative_path": "training/velodyne/000025.bin",
+    "bytes": 1852480,
+    "sha256": "d40c6723a5cd939ca7a7e7e46c3ab32a7cfc324aeabdda7f32e8a006f0be7081"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000031.bin",
+    "relative_path": "training/velodyne/000031.bin",
+    "bytes": 1940656,
+    "sha256": "162e84d9a0faf7d69c669fbcbe81fa9d76e24a5c52045ce009aa490cdb0025d0"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000032.bin",
+    "relative_path": "training/velodyne/000032.bin",
+    "bytes": 1898576,
+    "sha256": "060154c31b13b8e4f47764a9af475c0ba1aec59d72619e8d5090207a2efeb3c0"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000043.bin",
+    "relative_path": "training/velodyne/000043.bin",
+    "bytes": 1961456,
+    "sha256": "e34b3e70870d00ced4ab032e318f448abdfa0adbf43df104b1b219546de83fce"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000048.bin",
+    "relative_path": "training/velodyne/000048.bin",
+    "bytes": 1962800,
+    "sha256": "a3ff2e0f4231151ff885c8babfcb3c03c8357993469f5d99303ad5504dafd491"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000049.bin",
+    "relative_path": "training/velodyne/000049.bin",
+    "bytes": 1819056,
+    "sha256": "44e72c56d23a2765f8b336ef607694ecbbc9028f0546c3dc7ee7653714f346c9"
+  },
+  {
+    "dataset": "kitti_mini",
+    "path": "data/kitti_mini/training/velodyne/000061.bin",
+    "relative_path": "training/velodyne/000061.bin",
+    "bytes": 2003952,
+    "sha256": "10a669b52ac24e048c5fd71a8f55e8abee7797bf53777ea2455f9869f6d8cafe"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/MANIFEST.json",
+    "relative_path": "MANIFEST.json",
+    "bytes": 33537,
+    "sha256": "843d9c6e3d1524aefb5d8f766ff71b085f273d2ab321434baf81dd60a38f9d1f"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151603512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151603512404.jpg",
+    "bytes": 141976,
+    "sha256": "0e2067a1618c4424050c45c393ada8c9dbf130fff8d6015004fce901dc07984d"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151604012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151604012404.jpg",
+    "bytes": 146297,
+    "sha256": "d5624fcecf12310c3d0760362e097c38cdcdce987e032aaf2883071cd14e2732"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151604512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151604512404.jpg",
+    "bytes": 145856,
+    "sha256": "0bb82b89f9e6ce47d9e1bcd747b01fe3fd342ccc67eb7a9c693a3fc3fc73a6bc"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151605012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151605012404.jpg",
+    "bytes": 147138,
+    "sha256": "54384bc8c4896f349bdc643b573f398fbb03ee842ac2af2af2c602a62f48f79d"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151605512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151605512404.jpg",
+    "bytes": 148131,
+    "sha256": "fc82f0d43b5c2d93b5f5aedc3ef491e7a2d5e3c5ac86be4918d8a0b991205ce5"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151606012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151606012404.jpg",
+    "bytes": 147444,
+    "sha256": "85b1b0937c423c393e4a79cfd755d31d6dc3711ca42d778514091b0f507a3b17"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151606512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151606512404.jpg",
+    "bytes": 137921,
+    "sha256": "5e4d9975dcf69a7533a68e760b7cd0194ae64d9dd8665efb6c6e740ff5f714bb"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151607012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151607012404.jpg",
+    "bytes": 136725,
+    "sha256": "d3af1fcf714ea2e40e874f69adb6e2abfb4fc7eff5827e016b8b50b4f5f2f500"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151607512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151607512404.jpg",
+    "bytes": 135933,
+    "sha256": "3b2a7c953923f91f569523d45d2b670bddf2b90b483bfeeee1ee323e8fce6101"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151608012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151608012404.jpg",
+    "bytes": 130426,
+    "sha256": "081173c3a683512349f94905fa8bbb07c5b5e181cabf53d10812412c3a108a4e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151608512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151608512404.jpg",
+    "bytes": 127104,
+    "sha256": "f4cb74ce2a03facad9490b4ae1da64581eb5ae7982151b0e76236f527e4e5b28"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151609012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151609012404.jpg",
+    "bytes": 130286,
+    "sha256": "e8275a4c6eae82284334d554b31abd979c3e1ba137e73ab2f158854627684423"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151609512404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151609512404.jpg",
+    "bytes": 132058,
+    "sha256": "d7b1f0040c5afe17c663de394815309bb54818fbe599483430d049e3cc5eda9b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151609912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151609912404.jpg",
+    "bytes": 134252,
+    "sha256": "edd64756f7f6ef188c353ae788d82107dedc409e1b6b0815cee2b63ca03d1167"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151610412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151610412404.jpg",
+    "bytes": 133251,
+    "sha256": "90f7d983bc7edae9684b4d2b2445e340bc785020fa863c2ccf905d77fa306774"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151610912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151610912404.jpg",
+    "bytes": 133995,
+    "sha256": "be4b3c376a48a06f9474f046e40fef41455d29c83b97ab9479d6fd13464c114b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151611412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151611412404.jpg",
+    "bytes": 132195,
+    "sha256": "2a41bc321c6dc966f328e2a9d8c625adf7e2e2660f6bac60329c54166000c7e6"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151611862404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151611862404.jpg",
+    "bytes": 129944,
+    "sha256": "2c5607f97ed00d0fb33dac42c41c6d04f19490ae71105eb9a448980d5c8591e0"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151612362404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151612362404.jpg",
+    "bytes": 131182,
+    "sha256": "c5cdfab356bbce58abe7b71aba9ca03bcca3be94b8009efce419650008260a41"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151612862404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151612862404.jpg",
+    "bytes": 131455,
+    "sha256": "2deba14ca5b5009dee6d1176d73a5f88748b870a7db93e3dbce6cb363ea8035c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151613362404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151613362404.jpg",
+    "bytes": 130878,
+    "sha256": "1ba630cbdbb6a7fda55b3cdc40225da0cf828a7b1be4061f2960d54f24c4e72a"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151613912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151613912404.jpg",
+    "bytes": 130302,
+    "sha256": "114f5c20eb361097a23e6cdcc8a713f7c0328afb6a25e196b774d2ff4cf39422"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151614412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151614412404.jpg",
+    "bytes": 129417,
+    "sha256": "10442fdafa2e579645cc5fc7c89b4017111f575c9f45a7e28467205b6c17e8ec"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151614912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151614912404.jpg",
+    "bytes": 129450,
+    "sha256": "7c945996a910625e76943f4c5baa91c2fecaf8c023c2a2b64c5c7bc5a23f88e8"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151615412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151615412404.jpg",
+    "bytes": 130067,
+    "sha256": "2d5067f739fea593caa3151b62be7be17cde665c998992d7b9ef63476ea2da4a"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151615912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151615912404.jpg",
+    "bytes": 131536,
+    "sha256": "d223c94572fc7758e1d54c5d501b86499bb49ff08d74b2dd7b53ced44d888f70"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151616412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151616412404.jpg",
+    "bytes": 135387,
+    "sha256": "9fb9a0f7db6a3f180d349f8efdc206552e84bb7b27a4664b692f77850a3c07e6"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151616912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151616912404.jpg",
+    "bytes": 134978,
+    "sha256": "82ef56fcece6e1ad147f4908bdc6aa5e10409dc61299349a860215e2792fad64"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151617362404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151617362404.jpg",
+    "bytes": 136288,
+    "sha256": "75346c8769eb309384284a29ea8213b22c685d67020fc69d784e0474bb6772b7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151617912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151617912404.jpg",
+    "bytes": 136129,
+    "sha256": "c2ad14ad703281099f6ecd187aa2f3add015d64b7fe09297ec9b568af83cd0fa"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151618412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151618412404.jpg",
+    "bytes": 137444,
+    "sha256": "034a749af6a3be55e2090125947b3bd90fb1a632df8bc77add9176438f36ceb7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151618912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151618912404.jpg",
+    "bytes": 137173,
+    "sha256": "d882235f91332358de2d476d10a9a0d115e26f7802b56123c848b68f0d96fb07"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151619412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151619412404.jpg",
+    "bytes": 136042,
+    "sha256": "1a730ed673722d97cd907d369fa150a2f4ff0f1314fa28759ef1ccf1fe4d3366"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151619912458.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151619912458.jpg",
+    "bytes": 137364,
+    "sha256": "a08fdf1245e38528db954e5f25a1cc3568de61d3b0fd7221c96687060ffc7ef7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151620412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151620412404.jpg",
+    "bytes": 135124,
+    "sha256": "16edd345f4ec2b4efced32db2cd4fc2cc59bacc9646fc9cf9981eeb0fdfeb8f6"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151621012404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151621012404.jpg",
+    "bytes": 134575,
+    "sha256": "c75689e6160a3dd1e06a57f4af64fa551ccdd30f87c992cc9b2e0a7df47f9806"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151621412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151621412404.jpg",
+    "bytes": 133083,
+    "sha256": "f0ee220c09d197c1e4d3ce45fb75781e044ab9dfd76b383cd41c7655a523fe14"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151621912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151621912404.jpg",
+    "bytes": 131012,
+    "sha256": "c1ef805b133d23e57032ea9ab27a5cc0139b7b2ff67b69c1d28e8e56ee9826f0"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151622412404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151622412404.jpg",
+    "bytes": 133368,
+    "sha256": "9a86254a9b20c186e62ccb4ac7c20432f01b30795d23b6b10deb7f354113fbc1"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151622912404.jpg",
+    "relative_path": "samples/CAM_FRONT/n008-2018-08-01-15-16-36-0400__CAM_FRONT__1533151622912404.jpg",
+    "bytes": 128205,
+    "sha256": "1fc64221853acb75b1714cfff2e3f6001da5e6adc1930871dac8a48f71386c22"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800847912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800847912460.jpg",
+    "bytes": 232508,
+    "sha256": "7f068fbd9a3467066713ad5b89897a390e7caff7855be02d829ee7baf205120c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800848412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800848412460.jpg",
+    "bytes": 246398,
+    "sha256": "9176788b67ad031831a1179870a47d6bddf58ff8f0c53af39dcac8cdabd89251"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800848912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800848912460.jpg",
+    "bytes": 250231,
+    "sha256": "4a36f7aeba3d580212241d0a7dd53b98991e0b4392d981afa73cc5461445d6f8"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800849412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800849412460.jpg",
+    "bytes": 242019,
+    "sha256": "56c3788b74b2571db2b1d54b735ab7dccdc44e5499f1ed97a0df6f64f186d31c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800849912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800849912460.jpg",
+    "bytes": 249255,
+    "sha256": "fbec03fe0d49d943d7bf435f31d0627652a2ab143bcd487a09f4015925c6b8cc"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800850412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800850412460.jpg",
+    "bytes": 248016,
+    "sha256": "aa36abb6c6ff4e737b3151faf0285c37b257a1f4f83a5fb2df6e52ec71c2bcfb"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800850912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800850912460.jpg",
+    "bytes": 242951,
+    "sha256": "8a65264f140758e1bf806b1a22e8bba59055be083509ee765122ef6f696ba97a"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800851412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800851412460.jpg",
+    "bytes": 236296,
+    "sha256": "5edc349bb0898f5afbea67fbca74512d79cc9653e29fa3fec85d4b16acce2378"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800851912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800851912460.jpg",
+    "bytes": 235737,
+    "sha256": "e34ed78ae3db875ed7aa2aba5c354a564d238770d5b8938d3a965f575c70a1f9"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800852412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800852412460.jpg",
+    "bytes": 228168,
+    "sha256": "932f54ea156749bbeeae82ff5eba48418340f22745489e5b6ad1bfc79908938c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800852912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800852912460.jpg",
+    "bytes": 215935,
+    "sha256": "e1b12ab98f8be924fcbd5e04d586f583705d7b24a32bfbad3a7c872d7f0d9120"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800853412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800853412460.jpg",
+    "bytes": 209925,
+    "sha256": "ca2bfb502adad07951c4e6979851416d69117d3a386affdeaf7856fead9733b3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800853912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800853912460.jpg",
+    "bytes": 221228,
+    "sha256": "6cb886df97861b653632e8d02260458267a295c4e99bfb3eddca3a4e1b292184"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800854412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800854412460.jpg",
+    "bytes": 252904,
+    "sha256": "b2c34c4066b9eb1fea2c128366a1dce4c9aaea2a72eb7de3b30ba8492b759084"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800854912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800854912460.jpg",
+    "bytes": 268990,
+    "sha256": "04eb0aa0d27e63a8498256eb817fdf74b0fa0cd6a54e31a2b6fb0e61d696d703"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800855412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800855412460.jpg",
+    "bytes": 284236,
+    "sha256": "9de03f514f4657b2d112accc0a642a682dd17f6f2fdddbf311e260d13ceb2f2f"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800855912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800855912460.jpg",
+    "bytes": 294548,
+    "sha256": "12474742f070a1ec2f799419303e6b4f9c5bc2d70cd94d62d38dc698573fd0ff"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800856412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800856412460.jpg",
+    "bytes": 296701,
+    "sha256": "801950e8fa92b7fa3b205bf97ad9ed00ef6f8bcce070bb203e76f9ef1911d478"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800856912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800856912460.jpg",
+    "bytes": 291759,
+    "sha256": "e0247bb0a2cfa57910428d5632a0eac609703c38bb39163372faf39cd65d398b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800857412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800857412460.jpg",
+    "bytes": 290497,
+    "sha256": "bf69fa245e3302710ff3698aa8351771f22c953653a35488fad9cbcb7a2d8beb"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800857862460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800857862460.jpg",
+    "bytes": 289067,
+    "sha256": "f21d1febb31f6f26b5e1ecf4b8e395a6ad84502cebca251b9c6bf477bd40d510"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800858362460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800858362460.jpg",
+    "bytes": 279200,
+    "sha256": "19a82e200b29a3142eb9375656afeaaa09fb65aad04c43ce27d46bf7b20f67b6"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800858862460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800858862460.jpg",
+    "bytes": 282617,
+    "sha256": "b3831865b5419103cf73eed49b06ab30deee7a5a72e1ac48fcc55f9c0c7d2317"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800859412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800859412460.jpg",
+    "bytes": 284668,
+    "sha256": "0dbff96ee93a7bb7ee173363203e348f9e3c6c3671dece3db4596958418f8ad7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800859912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800859912460.jpg",
+    "bytes": 288421,
+    "sha256": "1d876ac775fec818824c3f3bd0e6caca2d4ffa25fbccabc180067b46d67c95bd"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800860412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800860412460.jpg",
+    "bytes": 287321,
+    "sha256": "056ed5805733b59c05b66fc35c7eb848fca1f8afdbca940322c5872b11eda9c7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800860912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800860912460.jpg",
+    "bytes": 283127,
+    "sha256": "1d7bf50942acf0a8a46431888035929741c8dbf4cbbd0da6c46d0d1de0718f47"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800861412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800861412460.jpg",
+    "bytes": 281410,
+    "sha256": "ce63d94457f397826c9a61a0defba0dc8db8f1a8315964405418893dcc12f7fb"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800861912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800861912460.jpg",
+    "bytes": 276134,
+    "sha256": "5061e83e46acedfdcae0f40cce2d499b7496a3642683a8121d69205bd4216ebe"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800862412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800862412460.jpg",
+    "bytes": 282221,
+    "sha256": "9dedc6c6589398bdf7d606661588f69723203a313cbf4f683c678fa5751e6bc8"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800862912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800862912460.jpg",
+    "bytes": 287788,
+    "sha256": "8a18710d22546fd15f1db629c1ba6277147e5db3345184eac3b9669aef27eabb"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800863412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800863412460.jpg",
+    "bytes": 284996,
+    "sha256": "f813d1d6451d470b30704792a2e73cd9c034d746b1ceb408d36808fa413f7acc"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800863912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800863912460.jpg",
+    "bytes": 295042,
+    "sha256": "c09e791f72d1364a2678ce6b2236b6b1481c3d2fa8256a4c90bc8b5ed81d296d"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800864412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800864412460.jpg",
+    "bytes": 292449,
+    "sha256": "ea2280ec4a8e9fa3ed2b52a7ac9f568289ea2f804d3089d2a3beb8d65796bcb4"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800864912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800864912460.jpg",
+    "bytes": 289058,
+    "sha256": "54bc1ca41059268f44baf8265b1c5824a028a04a9f3f9eb7f7d0187d1e0b48c3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800865412815.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800865412815.jpg",
+    "bytes": 288742,
+    "sha256": "d62a4b64d28c42f8474322e82e964b5c442087d3fc41d2161f57dcff8d8a2cae"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800865912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800865912460.jpg",
+    "bytes": 285910,
+    "sha256": "157bf0b1fe4656aa9ccfa9ff18ca2db1d5125883263b99b92f6899fbc1e69493"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800866412467.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800866412467.jpg",
+    "bytes": 288796,
+    "sha256": "b1b60c2248e1e9e607458620297ad42d6b724cd02a946f76a554d9a30593f944"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800866912460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800866912460.jpg",
+    "bytes": 288062,
+    "sha256": "724a6d0cae4e12540fca9c7f7923d83d1397fb47d454cb8f87cb2216c441d4d2"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800867412460.jpg",
+    "relative_path": "samples/CAM_FRONT/n015-2018-11-21-19-38-26+0800__CAM_FRONT__1542800867412460.jpg",
+    "bytes": 291252,
+    "sha256": "8ff2af10ed6f6cf1d8e726e28a0510d6631c040e58cd48802a36eeec72558468"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151603547590.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151603547590.pcd.bin",
+    "bytes": 695040,
+    "sha256": "c54cec1236b18dd28579e7090d9e3b3a233d41187d9f402133a1c4b08d7f79e3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151604048025.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151604048025.pcd.bin",
+    "bytes": 693760,
+    "sha256": "fd6e18edeb159ea862737d1f4e76ffadf29689d752c313a39a2f0b798103f55a"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151604547893.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151604547893.pcd.bin",
+    "bytes": 695040,
+    "sha256": "ba79a4f928d16821f54863b0278dcbe112a14ec041803d484149b81010620bae"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151605047769.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151605047769.pcd.bin",
+    "bytes": 694400,
+    "sha256": "5157dd4f27ed57ac5b7959f6bfb06646f74c15ff95415a0b331637b8c5cde77c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151605548192.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151605548192.pcd.bin",
+    "bytes": 695680,
+    "sha256": "5102c9416ba5dd69d69a0470ee0a7be3efca0154028f9cba91bd31ec18ff2f22"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151606048630.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151606048630.pcd.bin",
+    "bytes": 694400,
+    "sha256": "578ae422e9815a02a66fc4a0b76aebebf7e436d65c350c64f26c3a95eb15ecb0"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151606549066.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151606549066.pcd.bin",
+    "bytes": 693760,
+    "sha256": "4af2dffcb6fd338b3a7f3c5a0390b520337b7d3e06aa66098629ecbb2beb9e57"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151607048933.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151607048933.pcd.bin",
+    "bytes": 693760,
+    "sha256": "91a540c7b6f166105a0b1b8fee94144f9ef141d8695deb7929b72f1c9f9b8c1e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151607548824.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151607548824.pcd.bin",
+    "bytes": 694400,
+    "sha256": "8fdd32a77770e8f2123b992e81ca88eea3ccc2361c9fd255438bd47426e5025e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151608048151.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151608048151.pcd.bin",
+    "bytes": 694400,
+    "sha256": "f64c419fe64a1c209b48ab3c126483a3c10d917dc9f397bfae20dba9f1b66ce3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151608548020.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151608548020.pcd.bin",
+    "bytes": 694400,
+    "sha256": "6e742302d4c0611ac3ca88a96911dd082707b3cb3fd0dc2a2799b4e4173e545c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151609047890.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151609047890.pcd.bin",
+    "bytes": 693760,
+    "sha256": "adab43d56834777a680cab63cd5c782c7b8ddc1dcb8535e3b601d5edd16279b4"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151609547766.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151609547766.pcd.bin",
+    "bytes": 693760,
+    "sha256": "8c1f19031ae4d2a2a12a823644ea78e1a6a5a9bf18e1a8acc753f96b22e13aa0"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151609947025.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151609947025.pcd.bin",
+    "bytes": 693760,
+    "sha256": "62e5a93552a5e2251acf57a4b2491865da37a0692cb815ff787a86c30641a5b2"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151610446899.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151610446899.pcd.bin",
+    "bytes": 694400,
+    "sha256": "2caa30139212541dd205e3fdf1a0f8c8175835968d3b49311b442b2c90d5b29c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151610946785.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151610946785.pcd.bin",
+    "bytes": 693760,
+    "sha256": "4f253fc981c995ecc942be0554bf7f073635b9516a0f759313af3078f7be55ba"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151611446636.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151611446636.pcd.bin",
+    "bytes": 694400,
+    "sha256": "fb77eb786266a91850f7c378aebbcc512bc1c4eb30b1001fdd2e01b289f75ae0"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151611896734.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151611896734.pcd.bin",
+    "bytes": 694400,
+    "sha256": "40db4e606a8ead146fb0e0a8d33fc50fd36046fbfd20ba350aad68a7f7bdf119"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151612397179.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151612397179.pcd.bin",
+    "bytes": 695680,
+    "sha256": "f21482889d45990642be88a7f62aa29e476d21d8e57e3318248aa23167888de2"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151612897588.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151612897588.pcd.bin",
+    "bytes": 695680,
+    "sha256": "f5203ac3862e914c82ce88e898563e054bbb81c09a68eb625a26ca080ffd7bb2"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151613398020.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151613398020.pcd.bin",
+    "bytes": 695040,
+    "sha256": "fc9baf6a909421901d1358dd59f913ee188109d22e3accc2a9c68184eb584fdb"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151613948222.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151613948222.pcd.bin",
+    "bytes": 695040,
+    "sha256": "4ba12f472ecc6dfde240d75ceb68dff0e120c4803fef005aa6b5970ff8ee45d5"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151614450164.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151614450164.pcd.bin",
+    "bytes": 695040,
+    "sha256": "f05abe1015715bcc8ea3246cdc339d5bdcfaac3685525f278e29b995fc58ae02"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151614948536.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151614948536.pcd.bin",
+    "bytes": 694400,
+    "sha256": "5da14c63371d2ce3096347166e33bacb7f07ce15dd7df4a06a746d16f6c6faea"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151615448397.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151615448397.pcd.bin",
+    "bytes": 693760,
+    "sha256": "04184a4b7e338782b94f56bfc0eb78ec27a48d46400000124e1451b7eec9e79b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151615947733.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151615947733.pcd.bin",
+    "bytes": 693760,
+    "sha256": "c7c7b971c34219e91f8025ab5763470aa99f61502d94e782f2b2c9af13ce5783"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151616447606.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151616447606.pcd.bin",
+    "bytes": 693760,
+    "sha256": "f660ece25f7e34e24f073adab12dce255c916345c03b5850cc9d3b59926c46c2"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151616947490.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151616947490.pcd.bin",
+    "bytes": 695040,
+    "sha256": "a041d602501399c0c4b80d53c5da9eb4d2cb765971a29dce0145ed16c66be00e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151617397050.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151617397050.pcd.bin",
+    "bytes": 694400,
+    "sha256": "f4e03c875f55cc0c8760c8400083bb9b49e4cd008a09fe7f1556606ab738c0a9"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151617947237.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151617947237.pcd.bin",
+    "bytes": 694400,
+    "sha256": "e3189999113a8c0f08cabf4e36c29042349a1183b3ed2238c49cc2ec086dd4b3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151618447134.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151618447134.pcd.bin",
+    "bytes": 693760,
+    "sha256": "87d4266f64d22fc1189b0837318b9578115ab113e29f345c2640c7c475fec8ff"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151618946993.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151618946993.pcd.bin",
+    "bytes": 693760,
+    "sha256": "ec4719647383dc7c0a886fd9ebda207013602646468beeca3c1b398630498812"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151619446866.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151619446866.pcd.bin",
+    "bytes": 695040,
+    "sha256": "576190e3189597eae2d1176f0406b3e96e3826a7195ef77eb0f7030f0c7521f7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151619947313.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151619947313.pcd.bin",
+    "bytes": 695680,
+    "sha256": "90276fb9d5231480fa209bcc6a7bfe28ce04fbc6dddca95abf34c2173ecabc37"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151620447745.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151620447745.pcd.bin",
+    "bytes": 693760,
+    "sha256": "26bbf4c9954cde4311681ad2d2cf9428640cc811b6b06b17120163a18e58d9de"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151621047706.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151621047706.pcd.bin",
+    "bytes": 694400,
+    "sha256": "4a94502408a271399fd9aec302924b261d34e66e0f2fcd3ca93803e1acf76661"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151621448049.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151621448049.pcd.bin",
+    "bytes": 695040,
+    "sha256": "a6d9e338f37a465a9ea7829642f17b25be70af2b9fdaaf6c2b05c0baaa47e39d"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151621947928.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151621947928.pcd.bin",
+    "bytes": 694400,
+    "sha256": "7fb88c7c4274a51de2c8a91b2a3fddf9d0882c7d57aaf44d86fe26085522498e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151622448916.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151622448916.pcd.bin",
+    "bytes": 695040,
+    "sha256": "5677cb9f414d067d3878158f6b7db675258a00e2eee498dfa3b366933cdd169f"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151622948227.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151622948227.pcd.bin",
+    "bytes": 694400,
+    "sha256": "6f7b64d176913bd91fe1359de089c9a4b843b25e76c0259a2fda891181de31f7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800847948119.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800847948119.pcd.bin",
+    "bytes": 688000,
+    "sha256": "087f19a3bf3b2077384eb7db1f4097c48736b01e22fda76eb0c699738862bdbd"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800848447981.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800848447981.pcd.bin",
+    "bytes": 693760,
+    "sha256": "62f385f29810b81a4c9a303dd82e6f250b4d72e59be11c855558e9f75fe2a7e8"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800848947897.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800848947897.pcd.bin",
+    "bytes": 694400,
+    "sha256": "e93906c7a85efb7618a3bbbb97981a49c5a7b83e3817193f8d63d2000bfe1215"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800849447179.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800849447179.pcd.bin",
+    "bytes": 693760,
+    "sha256": "ecfa8d7d7143c495bee374ce40a0247022840d485b4cceb86708260b4de715bf"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800849947059.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800849947059.pcd.bin",
+    "bytes": 694400,
+    "sha256": "582810ad7932e418de51d81a0c245cf4d162a06747fbb43a37d41383237c18a8"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800850447485.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800850447485.pcd.bin",
+    "bytes": 695040,
+    "sha256": "3fb71ab5115275b0e4afca9073a7693d1fefba7d2335b73c53af2f334d517a9c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800850947378.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800850947378.pcd.bin",
+    "bytes": 693760,
+    "sha256": "661ebc7f319c9cf401daf19827dde238e675cded9cb1006244d5dd25a6b860cc"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800851450143.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800851450143.pcd.bin",
+    "bytes": 694400,
+    "sha256": "db20479606ca72349456ef76662cd305c3fbc7d5302ac0347cf06cb92b098cf5"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800851947705.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800851947705.pcd.bin",
+    "bytes": 695040,
+    "sha256": "4770fd22c4dec022a9aa39b2e9f282cac69b58422445f59bf0e0cd7fdbbabc5b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800852448091.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800852448091.pcd.bin",
+    "bytes": 694400,
+    "sha256": "432fc05e0d0206265fd33292145b97c6a1f36ea4dbcbd6f87108bb803827e241"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800852947478.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800852947478.pcd.bin",
+    "bytes": 693760,
+    "sha256": "20d5e303a1b2bce7d10c23eb10403dadf309c940fae2e3bb991add9d9207a5ec"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800853447313.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800853447313.pcd.bin",
+    "bytes": 693760,
+    "sha256": "a3e3ae620a317e3a9797faaba22d9c9f4248910f7fd857c14f0e2b1126aa0fde"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800853947736.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800853947736.pcd.bin",
+    "bytes": 695040,
+    "sha256": "c97d5b1e6bdfd96f2f9f628d0e343015945fe7fb9a567f26885d9cdd66181b29"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800854447717.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800854447717.pcd.bin",
+    "bytes": 695040,
+    "sha256": "164f2794d3e433b4ebc2a236a7bf553143062c840ce0b1b56534b0452572c102"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800854948033.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800854948033.pcd.bin",
+    "bytes": 694400,
+    "sha256": "3deb21a63cbcf3bf17933b38dd5a8ebb48eedb2aa16836531e7cfbe3eb027e10"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800855448455.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800855448455.pcd.bin",
+    "bytes": 695040,
+    "sha256": "7784a43522eb2f2b39b3e92dfd5fc5b66125bcc64d54601cec3d1a28172ff5a1"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800855949460.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800855949460.pcd.bin",
+    "bytes": 696320,
+    "sha256": "1aac3b24d6efc3a1d31659a1d493a3e3158361346bec994654e527f3e7ad6c9c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800856450419.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800856450419.pcd.bin",
+    "bytes": 695040,
+    "sha256": "9112793a18aee0c3a8b5424ad0830894caa79f42cf8cf9a390d99bbafb36f876"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800856950302.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800856950302.pcd.bin",
+    "bytes": 693760,
+    "sha256": "5a0bb3721ddc01e3faa97452483552d75450a4d472d4feb32a1e9e1110cc5d2b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800857450187.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800857450187.pcd.bin",
+    "bytes": 693760,
+    "sha256": "08fc3073cc1264952fb7baf8172ded22d91690c3f887224067672f4c0340b351"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800857899729.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800857899729.pcd.bin",
+    "bytes": 694400,
+    "sha256": "802d1a184400f3e01279cd98a48306d6c474c4c855301ffab7c66578d43e3cb7"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800858399042.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800858399042.pcd.bin",
+    "bytes": 693760,
+    "sha256": "d09cd86f73f8f304d2ad0e406b4d51c93889d3a21a512c7b9c84115a317e4516"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800858898923.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800858898923.pcd.bin",
+    "bytes": 693120,
+    "sha256": "eecd92f95b4080b62c98126ad4e3ef661d79c6837764cf810508498843c79dd3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800859451995.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800859451995.pcd.bin",
+    "bytes": 693760,
+    "sha256": "1de06a958ca8bc8ce4d48afa0bdcc18f97203957d99e8655183d3d6f0104ab0d"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800859947349.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800859947349.pcd.bin",
+    "bytes": 693760,
+    "sha256": "22c9a843cb09ac6bb4da220b83e068baa85ac5c4e4b1ca7cabb5e79a9cb2f9e3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800860447226.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800860447226.pcd.bin",
+    "bytes": 694400,
+    "sha256": "2588b675f51a6ae437acb192f266044fe6a9b6d82ed31ab9efa583b93df90ac2"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800860947086.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800860947086.pcd.bin",
+    "bytes": 695040,
+    "sha256": "85ddb2dee848ffe5bd9409c0f18ead74610e78141dfa16881343056dd85ea65e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800861447555.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800861447555.pcd.bin",
+    "bytes": 695040,
+    "sha256": "fbc596a1b236be7c03df354a5c24269236883c5300f8b37a89fe26e82297cc0d"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800861947962.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800861947962.pcd.bin",
+    "bytes": 695040,
+    "sha256": "e88160699e8ee7512ba4ca5c4157abde99efd169d7d07f64b82696eeb7053cf1"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800862447900.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800862447900.pcd.bin",
+    "bytes": 694400,
+    "sha256": "0a2295eac6ca485b82387f3af98b476945ccc23a9b11b4218e97d9000816b3e4"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800862947705.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800862947705.pcd.bin",
+    "bytes": 694400,
+    "sha256": "c7e485e7e60c7142e34a289afd410ce4648df3352c33aae2d76ed560ffe76b43"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800863447572.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800863447572.pcd.bin",
+    "bytes": 695040,
+    "sha256": "a746ec1268e98cb036a0df5e07edde2a80fec0f7d94bdc9387e4b25ce627594e"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800863948003.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800863948003.pcd.bin",
+    "bytes": 695680,
+    "sha256": "08bc92774fa904afc6fdf59d0633ca0aefa5434edb4eab370ea884054debd697"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800864448454.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800864448454.pcd.bin",
+    "bytes": 694400,
+    "sha256": "33999c8a49bcb46341ed8bc36b9c3ba13fdee21b89392c30ddec7dd63e4fceb8"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800864948320.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800864948320.pcd.bin",
+    "bytes": 694400,
+    "sha256": "d0acbec7f1308b9c80da2b9aeb491aeb36921b32dc6440389641661649a32404"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800865448238.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800865448238.pcd.bin",
+    "bytes": 694400,
+    "sha256": "f66acfe5278b1afa9c920237c60694ad8a4bc6b975f0fdb6fe599a9e46c4895c"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800865948074.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800865948074.pcd.bin",
+    "bytes": 694400,
+    "sha256": "e670b4b79ec5116965377b6355a523a9bc3a6d965ff111821140bdcaa147b964"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800866448494.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800866448494.pcd.bin",
+    "bytes": 695040,
+    "sha256": "a1b6e810323dae0bf24937559d79bec63796d64f3f2b53d85acce582b8f0df54"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800866948361.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800866948361.pcd.bin",
+    "bytes": 693760,
+    "sha256": "828dbd19e072cc2cf498f847f6348ba99b2f4098bfb5e3fc92aef87297623869"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800867447688.pcd.bin",
+    "relative_path": "samples/LIDAR_TOP/n015-2018-11-21-19-38-26+0800__LIDAR_TOP__1542800867447688.pcd.bin",
+    "bytes": 694400,
+    "sha256": "bec73e5f566b483d6f4df0b88faa5deaf110a6d5976450165b587d74d2f12016"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/attribute.json",
+    "relative_path": "v1.0-mini/attribute.json",
+    "bytes": 1188,
+    "sha256": "99723a7dd74a11cc5ebb752043211b858ecfab84b30aa34c7a798baf30d95b15"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/calibrated_sensor.json",
+    "relative_path": "v1.0-mini/calibrated_sensor.json",
+    "bytes": 41367,
+    "sha256": "32123e09b38687f057b9fe636eca9a03f94a70fe4cd369a10b6b7193151198a0"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/category.json",
+    "relative_path": "v1.0-mini/category.json",
+    "bytes": 4863,
+    "sha256": "7a2c73e0b1ec8c614907e76b82f7ac8b637d44a24a9fb09a7ad7b2f39fd3701b"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/ego_pose.json",
+    "relative_path": "v1.0-mini/ego_pose.json",
+    "bytes": 41746,
+    "sha256": "7f7118bb391b42789d1009da57d9ca1557c666e75798ea3aef794c201d9b1ba4"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/instance.json",
+    "relative_path": "v1.0-mini/instance.json",
+    "bytes": 53193,
+    "sha256": "b129d53a3f6cf4e29994e46fddb656d3605b779163fa6022c6bef9df425e34d3"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/log.json",
+    "relative_path": "v1.0-mini/log.json",
+    "bytes": 373,
+    "sha256": "df44ed6f38b9289265c38b8c29192777241ce0a315fbfc13158605fbae2df003"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/map.json",
+    "relative_path": "v1.0-mini/map.json",
+    "bytes": 399,
+    "sha256": "17129bbd084a984d166ee5d4e16618012f427001fff46ef6388376798fe12868"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/sample.json",
+    "relative_path": "v1.0-mini/sample.json",
+    "bytes": 17955,
+    "sha256": "a55caa10a32428d378feee0fa96ab9de42381faee4866c77117d59fba2797128"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/sample_annotation.json",
+    "relative_path": "v1.0-mini/sample_annotation.json",
+    "bytes": 2077645,
+    "sha256": "1be852eb7cf44cc49efeec86032e5ac2507176ae0249fcd50ed08fd6acd7bb86"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/sample_data.json",
+    "relative_path": "v1.0-mini/sample_data.json",
+    "bytes": 82867,
+    "sha256": "f3aefcb6060bffb03cd8303557489eb5ea5ee46a1e0225ff7eae9c53c817a06a"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/scene.json",
+    "relative_path": "v1.0-mini/scene.json",
+    "bytes": 708,
+    "sha256": "c8ddcfa0223acdbe032b6c92f0d857a69a68b133cb5c8e6bba2d72c511390d8a"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/sensor.json",
+    "relative_path": "v1.0-mini/sensor.json",
+    "bytes": 1246,
+    "sha256": "e233fc7b8d3f7b1047f3a5cfad886609fc91bb4d1d53dbc27fce2b385b065d18"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "path": "data/nuscenes_mini_subset/v1.0-mini/visibility.json",
+    "relative_path": "v1.0-mini/visibility.json",
+    "bytes": 439,
+    "sha256": "24eeeaa6b288e0edc941aecdaaae1d9d0548b7a245b154ceae1a22b78d0dc8ad"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/calib/000000.txt",
+    "relative_path": "training/calib/000000.txt",
+    "bytes": 1133,
+    "sha256": "0a875ae6ccd9f0c6ae600106db93f122c213736401ae4bf48ba846bfe34b13b1"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/calib/000001.txt",
+    "relative_path": "training/calib/000001.txt",
+    "bytes": 1133,
+    "sha256": "0a875ae6ccd9f0c6ae600106db93f122c213736401ae4bf48ba846bfe34b13b1"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/calib/000002.txt",
+    "relative_path": "training/calib/000002.txt",
+    "bytes": 1133,
+    "sha256": "0a875ae6ccd9f0c6ae600106db93f122c213736401ae4bf48ba846bfe34b13b1"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/calib/000003.txt",
+    "relative_path": "training/calib/000003.txt",
+    "bytes": 1133,
+    "sha256": "0a875ae6ccd9f0c6ae600106db93f122c213736401ae4bf48ba846bfe34b13b1"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/calib/000004.txt",
+    "relative_path": "training/calib/000004.txt",
+    "bytes": 1133,
+    "sha256": "0a875ae6ccd9f0c6ae600106db93f122c213736401ae4bf48ba846bfe34b13b1"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/image_2/000000.png",
+    "relative_path": "training/image_2/000000.png",
+    "bytes": 13188,
+    "sha256": "87b72af0246107774007cc368e7be8961f2a86a7daa0a177561d9199ccf7c664"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/image_2/000001.png",
+    "relative_path": "training/image_2/000001.png",
+    "bytes": 12802,
+    "sha256": "7b1163f09863ef06f5eac500ad4e079c0d52bc226ff7151b39e324eb335bda65"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/image_2/000002.png",
+    "relative_path": "training/image_2/000002.png",
+    "bytes": 11608,
+    "sha256": "19677ddf9db2c6aa12c42d0f28034a658b9b635edeefdf4c3f27b9d05dab659c"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/image_2/000003.png",
+    "relative_path": "training/image_2/000003.png",
+    "bytes": 11040,
+    "sha256": "1e32f9a40b20752816fbc8c807ef6b36f136c253f2b1a4793b8ff96aa20aa501"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/image_2/000004.png",
+    "relative_path": "training/image_2/000004.png",
+    "bytes": 10689,
+    "sha256": "f983db3a3f89c6901f35dbecf74a3b428ee2c97d3d7d40969bfbc75dfc067acc"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/label_2/000000.txt",
+    "relative_path": "training/label_2/000000.txt",
+    "bytes": 172,
+    "sha256": "5ba98dd89340aa202ff9ace77479d6df1605a0c63dc4da718336fab730917f3d"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/label_2/000001.txt",
+    "relative_path": "training/label_2/000001.txt",
+    "bytes": 173,
+    "sha256": "f13289bc2d2447bd65e63f10a261e0a58a0a57cd337eccb23780fdf44ab458ca"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/label_2/000002.txt",
+    "relative_path": "training/label_2/000002.txt",
+    "bytes": 173,
+    "sha256": "a997cbb43ae46f4ef402b81ce1efd19ffaad0fafe016e421de03ac8d0fe9e923"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/label_2/000003.txt",
+    "relative_path": "training/label_2/000003.txt",
+    "bytes": 174,
+    "sha256": "c9a724aec49395b0b8bcbaf9c2ce096ef7d3fbee82621c41a76e745e72005e52"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/label_2/000004.txt",
+    "relative_path": "training/label_2/000004.txt",
+    "bytes": 174,
+    "sha256": "a151ed3c8130f89c2f86354f2002ca284d39549a1a9044c2c75aa16c4f66c2cd"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/timestamps.txt",
+    "relative_path": "training/timestamps.txt",
+    "bytes": 50,
+    "sha256": "104c7d4281c9c9a62739f81b6487f30fcc42e1c6f2ba1f2cf29e29ce3ed332e2"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/velodyne/000000.bin",
+    "relative_path": "training/velodyne/000000.bin",
+    "bytes": 383248,
+    "sha256": "bfb7c0b9c198ae7f3ea44ce877666d7d7b29a5efbee5ac5abc6f201e5aacdb61"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/velodyne/000001.bin",
+    "relative_path": "training/velodyne/000001.bin",
+    "bytes": 380496,
+    "sha256": "f5e9655f4893ed68ee2450d01ba052dbe017a897318c73bff505f5726690fc50"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/velodyne/000002.bin",
+    "relative_path": "training/velodyne/000002.bin",
+    "bytes": 380640,
+    "sha256": "74b20374754213f81ed5567bd04aaa3795206083067925e86fa7fccddccdae89"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/velodyne/000003.bin",
+    "relative_path": "training/velodyne/000003.bin",
+    "bytes": 353008,
+    "sha256": "4a726dd3c201b9ca7c96db224c31c77432744a0680840ab0714f37fbafec4649"
+  },
+  {
+    "dataset": "synthetic",
+    "path": "data/synthetic/training/velodyne/000004.bin",
+    "relative_path": "training/velodyne/000004.bin",
+    "bytes": 380160,
+    "sha256": "151fa83dd07bf3d708698ce78e9c2b6fbe9d6ec3bc682b02f5963a5852b1c4fb"
+  }
+]

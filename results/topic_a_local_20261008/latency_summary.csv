@@ -1,0 +1,3 @@
+dataset,frame,repeats,warmup,p50_ms,p95_ms,scope,cpu,platform,opencv_threads
+kitti_mini,000001,30,5,11.3887675,12.31008415,velo_to_cam + cam_to_image; preloaded same input; CPU,11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz,Linux-6.17.0-41-generic-x86_64-with-glibc2.42,1
+nuscenes_mini_subset,scene-0103_000,30,5,1.870649,2.031668,velo_to_cam + cam_to_image; preloaded same input; CPU,11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz,Linux-6.17.0-41-generic-x86_64-with-glibc2.42,1

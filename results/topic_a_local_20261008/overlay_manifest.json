@@ -1,0 +1,120 @@
+[
+  {
+    "file": "overlay_kitti_near_000008.png",
+    "selection_target_m": 5,
+    "selected_object_id": 0,
+    "selected_object_type": "Car",
+    "selected_actual_distance_m": 4.884669896727925,
+    "distance_convention": "Euclidean norm of 3D bottom-center in baseline rectified camera frame",
+    "selection_rule": "Closest object to target among frames not selected previously; no fixed distance bin claimed.",
+    "dataset": "kitti_mini",
+    "root": "data/kitti_mini",
+    "frame": "000008",
+    "split": "test",
+    "object_distances_m": [
+      4.884669896727925,
+      8.11609512019173,
+      7.418099487065404,
+      14.56231437649936,
+      34.01558613341831,
+      21.75717123157328
+    ]
+  },
+  {
+    "file": "overlay_kitti_mid_000010.png",
+    "selection_target_m": 25,
+    "selected_object_id": 2,
+    "selected_object_type": "Pedestrian",
+    "selected_actual_distance_m": 24.990228090195576,
+    "distance_convention": "Euclidean norm of 3D bottom-center in baseline rectified camera frame",
+    "selection_rule": "Closest object to target among frames not selected previously; no fixed distance bin claimed.",
+    "dataset": "kitti_mini",
+    "root": "data/kitti_mini",
+    "frame": "000010",
+    "split": "test",
+    "object_distances_m": [
+      7.027616950289763,
+      12.153505667090464,
+      24.990228090195576,
+      17.58300600011272,
+      23.152187801587996,
+      23.708471059939736,
+      29.129059373759393,
+      29.64992074188395,
+      43.12322460113576
+    ]
+  },
+  {
+    "file": "overlay_kitti_far_000019.png",
+    "selection_target_m": 60,
+    "selected_object_id": 3,
+    "selected_object_type": "Car",
+    "selected_actual_distance_m": 59.7673907745687,
+    "distance_convention": "Euclidean norm of 3D bottom-center in baseline rectified camera frame",
+    "selection_rule": "Closest object to target among frames not selected previously; no fixed distance bin claimed.",
+    "dataset": "kitti_mini",
+    "root": "data/kitti_mini",
+    "frame": "000019",
+    "split": "calibration",
+    "object_distances_m": [
+      6.5569352597078465,
+      10.25674899761128,
+      35.471560439315326,
+      59.7673907745687
+    ]
+  },
+  {
+    "file": "overlay_nuscenes_day_scene-0103_020.png",
+    "dataset": "nuscenes_mini_subset",
+    "root": "data/nuscenes_mini_subset",
+    "frame": "scene-0103_020",
+    "split": "test",
+    "object_distances_m": [
+      52.333028072376194,
+      56.69283404347264,
+      17.474889067768448,
+      45.14262973187765,
+      74.723009708293,
+      71.22103822260851,
+      49.717976533377616,
+      50.45277151998098,
+      79.37704771172301,
+      46.815939342582794,
+      37.32860726321032,
+      54.194288202100935,
+      21.33167741639969,
+      38.66933086861391,
+      61.95542801488149,
+      6.990126073123108,
+      38.17190250382391,
+      48.00975709327777,
+      28.77612733791157,
+      53.807398066099054,
+      26.37701514345616,
+      15.196695320368447,
+      56.84465163631267,
+      77.14078740035725,
+      27.572956986290052,
+      42.22842092154224
+    ]
+  },
+  {
+    "file": "overlay_nuscenes_night_scene-1094_020.png",
+    "dataset": "nuscenes_mini_subset",
+    "root": "data/nuscenes_mini_subset",
+    "frame": "scene-1094_020",
+    "split": "test",
+    "object_distances_m": [
+      99.12313695234796,
+      23.876407241631437,
+      63.142393727327985,
+      20.05736362213629,
+      20.938290454352583,
+      86.94579849065515,
+      33.38655918158215,
+      23.56016426117199,
+      47.04884178588538,
+      27.71329436317822
+    ]
+  }
+]

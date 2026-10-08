@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "frame_configs": 4515,
+  "object_configs": 56674,
+  "elapsed_scope": "No training; all listed frames evaluated.",
+  "caveats": [
+    "nuScenes 2D bbox is generated from 3D labels, not independent 2D ground truth.",
+    "nuScenes KITTI-style upright box conversion is approximate (full orientation is lost).",
+    "Ego motion compensation is enabled; dynamic object motion between sensor timestamps is not compensated.",
+    "Membership is fixed per baseline object; overlapping 3D boxes may share points.",
+    "Frame split is within-seen-scenes only, deterministic and stratified by dataset/scene; adjacent frames are correlated. No unseen-scene generalization claim.",
+    "Synthetic calibration perturbations measure sensitivity, not validated real-world drift detection.",
+    "Canny score median uses candidate-visible fixed samples; changing coverage can bias it. Lower is better.",
+    "Canny heuristic matches projected points to image edges, not depth-edge to image-edge alignment; not a validated alignment metric.",
+    "Fewer than 30 candidate-visible fixed samples: coverage_insufficient, unscorable; fixed rule, no test tuning.",
+    "Perturbation axes are LiDAR native. Yaw is about z-up in both datasets; roll/pitch and x/y translations do not represent the same physical direction across KITTI and nuScenes.",
+    "Zero is an unperturbed control, not proof that dataset calibration/labels are perfect."
+  ]
+}

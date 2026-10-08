@@ -1,0 +1,632 @@
+[
+  {
+    "dataset": "kitti_mini",
+    "frame": "000021",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000031",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000004",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000019",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000043",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000012",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000009",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000007",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000016",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000061",
+    "split": "calibration",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000008",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000015",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000023",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000032",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000001",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000010",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000011",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000049",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000025",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "kitti_mini",
+    "frame": "000048",
+    "split": "test",
+    "scene": "kitti_mini"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_036",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_025",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_033",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_008",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_028",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_034",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_032",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_010",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_017",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_015",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_009",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_018",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_027",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_004",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_019",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_037",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_012",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_013",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_007",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_023",
+    "split": "calibration",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_002",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_021",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_035",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_003",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_026",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_000",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_011",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_020",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_024",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_030",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_006",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_001",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_014",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_039",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_031",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_005",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_016",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_022",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_038",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-0103_029",
+    "split": "test",
+    "scene": "scene-0103"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_006",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_033",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_031",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_038",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_014",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_018",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_007",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_021",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_001",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_025",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_029",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_039",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_011",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_017",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_000",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_030",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_035",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_023",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_009",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_016",
+    "split": "calibration",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_037",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_013",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_008",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_019",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_032",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_036",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_004",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_028",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_015",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_003",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_022",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_012",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_027",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_005",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_020",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_002",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_010",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_026",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_024",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "nuscenes_mini_subset",
+    "frame": "scene-1094_034",
+    "split": "test",
+    "scene": "scene-1094"
+  },
+  {
+    "dataset": "synthetic",
+    "frame": "000000",
+    "split": "calibration",
+    "scene": "synthetic"
+  },
+  {
+    "dataset": "synthetic",
+    "frame": "000004",
+    "split": "calibration",
+    "scene": "synthetic"
+  },
+  {
+    "dataset": "synthetic",
+    "frame": "000003",
+    "split": "test",
+    "scene": "synthetic"
+  },
+  {
+    "dataset": "synthetic",
+    "frame": "000001",
+    "split": "test",
+    "scene": "synthetic"
+  },
+  {
+    "dataset": "synthetic",
+    "frame": "000002",
+    "split": "test",
+    "scene": "synthetic"
+  }
+]

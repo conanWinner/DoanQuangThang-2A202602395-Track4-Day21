@@ -1,0 +1,28 @@
+{
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.18.48+-x86_64-with-glibc2.39",
+  "cpu": "Intel(R) Xeon(R) CPU @ 2.20GHz",
+  "logical_cpus": 4,
+  "numpy": "2.2.6",
+  "opencv": "4.12.0",
+  "pandas": "2.3.3",
+  "opencv_threads": 1,
+  "code_sha256": {
+    "src/calibration_benchmark.py": "aa4ba3b3cbcde0671126be92329c30abbbce238896c4d2828a7ce525c76d4648",
+    "starter/projection.py": "40c5e7d157979abf0dbcaef5d1bc80ec418390a0346d8482b06d2f9ff2730211",
+    "starter/datasets.py": "b24cd72db6fa07073ea5a9caa84988a83142f9e9d9af62f2b1bfc6b30be130d4",
+    "starter/kitti_io.py": "b4de0a271a21da12d55691585abbcb2d08b1557bd2974a51709085570e7a84fd",
+    "starter/nuscenes_io.py": "f9c5369d672d04578001833c38abaef97559b797316ee7c02fc1f46bd8111b7e"
+  },
+  "projection_sha256": "40c5e7d157979abf0dbcaef5d1bc80ec418390a0346d8482b06d2f9ff2730211",
+  "thread_environment": {
+    "OPENBLAS_NUM_THREADS": null,
+    "OMP_NUM_THREADS": null,
+    "MKL_NUM_THREADS": null
+  },
+  "data_manifest": "data_manifest.json",
+  "data_manifest_sha256": "c1643539053046c1ab6af401bf988cf326251a6117fbc7408234c746aec6133f",
+  "split_manifest": "split_manifest.json",
+  "split_manifest_csv": "split_manifest.csv",
+  "split_manifest_sha256": "d51c81205693c0ec2f416e5dc9b146b23b374a2ee09bd776f8123a61b8437aeb"
+}
