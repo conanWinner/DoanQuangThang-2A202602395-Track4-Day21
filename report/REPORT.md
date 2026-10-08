@@ -2,7 +2,7 @@
 
 - **Họ tên:** Đoàn Quang Thắng
 - **MSSV:** 2A202602395
-- **Lớp:** VinUni AI20K — Track 4: Computer Vision and Robotics
+- **Lớp:** H210 — VinUni AI20K — Track 4: Computer Vision and Robotics
 - **Link repo:** https://github.com/conanWinner/DoanQuangThang-2A202602395-Track4-Day21
 - **Topic:** A — LiDAR-camera projection QA
 - **Dataset:** `data/kitti_mini`, `data/nuscenes_mini_subset`, `data/synthetic`.
@@ -39,6 +39,7 @@ Số liệu gốc: [summary.csv](../results/topic_a_local_20261008/summary.csv),
 Trong ảnh = điểm hợp lệ trong FOV / toàn bộ điểm đầu vào. Độ lệch là trung bình trên điểm nhìn thấy ở cả baseline và cấu hình lệch; đọc kèm coverage = điểm nhìn thấy ở cả hai / điểm nhìn thấy baseline.
 Đúng box dùng nhóm điểm cố định nằm trong box 3D và nhìn thấy ở baseline; chỉ xét object có ≥5 điểm, điểm trôi ra ngoài ảnh vẫn tính sai. Các tỷ lệ trong bảng gộp tử số/mẫu số toàn dataset (micro), không trung bình tỷ lệ từng frame.
 Box 2D nuScenes được sinh từ nhãn 3D, không phải nhãn kiểm chứng độc lập; chuyển box nghiêng sang KITTI upright là xấp xỉ. Trục x/y và roll/pitch của hai dataset khác quy ước, không so sánh như cùng hướng vật lý.
+Ví dụ frame đầu: KITTI `000001` có ảnh 1242×375 và fx=721,54 pixel; nuScenes `scene-0103_000` có ảnh 1600×900 và fx=1252,81 pixel. Theo phép chiếu pinhole, cùng thay đổi hướng nhỏ thường gây dịch pixel lớn hơn khi tiêu cự theo pixel lớn hơn; đây là một yếu tố hợp lý giải thích khác biệt, chưa phải thí nghiệm tách riêng nguyên nhân. Cảnh ngày/đêm, mật độ điểm, nhãn và phân bố khoảng cách cũng khác nhau.
 
 ![Sweep góc trên KITTI](../results/figures/topic_a_completed_20261008/sweep_kitti_mini_angles.png)
 ![Sweep góc trên nuScenes](../results/figures/topic_a_completed_20261008/sweep_nuscenes_mini_subset_angles.png)
@@ -97,6 +98,9 @@ OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 .venv/bin/python -B -
 ```
 
 Đã chạy thực tế ở địa phương bằng môi trường riêng `/tmp/day21-completion-env-20261008`: dữ liệu PASS, **13/13 test PASS**, benchmark `completion.status=complete`; xác minh đủ 20/80/5 frame và 43 cấu hình mỗi frame, không trùng khóa.
+Đã clone mới từ GitHub vào `/tmp/day21-audit-20261008-clean` và chạy lại benchmark đầy đủ vào output mới: `summary.csv`, bảng frame/object, `score_test.csv` khớp trong sai số `rtol=1e-7, atol=1e-10`; đánh giá score và dữ kiện failure khớp chính xác. Đủ 21 đường dẫn nội bộ trong bản báo cáo lúc audit, không sửa dữ liệu gốc.
+CP0 synthetic đã chạy và lưu [data_health.csv](../results/data_health.csv) đủ 5 frame. [Tài liệu CP6](PRESENTATION_CP6.md) gồm bài nói 3 phút, ảnh cần mở và câu trả lời vấn đáp; đây là tài liệu chuẩn bị, không chứng nhận đã trình bày hoặc tự tập nói.
+[Slide PDF CP6](../output/pdf/day21_topic_a_presentation.pdf) có 4 trang, tạo từ bảng và ảnh kết quả thật; đã render kiểm tra đủ 4 trang. Tạo lại bằng `python -m pip install reportlab==5.0.1`, rồi `python -B src/build_presentation_pdf.py --out output/pdf/day21_topic_a_presentation_new.pdf`; Linux cần font DejaVu tại `/usr/share/fonts/truetype/dejavu`, hoặc truyền `--font-dir` tương ứng.
 Notebook [src/topic_a_kaggle.ipynb](../src/topic_a_kaggle.ipynb) đóng gói code địa phương và tests, xác minh SHA-256, lấy dữ liệu Git revision cố định `bce73adec3dbd09b2869ed2061513328ee228272`, không cần tạo Kaggle dataset.
 Notebook CPU, Internet bật, riêng tư: [Track4 Day21 Lidar Camera Calibration](https://www.kaggle.com/code/thngonquang/track4-day21-lidar-camera-calibration), **phiên bản 1 COMPLETE**. [Log Kaggle](../results/kaggle_v1_20261008/track4-day21-lidar-camera-calibration.log) xác nhận **13 test OK**; artifact remote có đủ **4.515 dòng**, 20/80/5 frame và 43 cấu hình mỗi frame, cùng **56.674 dòng object–configuration**.
 Đã tải kết quả về [thư mục Kaggle v1](../results/kaggle_v1_20261008/results/topic_a_20261008T001923Z_fc959e59/completion.json): hash nguồn trùng bản địa phương, 276 hash file dữ liệu khớp, hash CSV khớp manifest; toàn bộ `summary.csv` remote khớp local trong sai số `rtol=1e-7, atol=1e-10`. Xem [verification.json](../results/kaggle_v1_20261008/verification.json).
@@ -107,7 +111,7 @@ Muốn tạo notebook cho nguồn code mới, chạy `python -B src/build_kaggle
 
 | Công cụ | Dùng cho việc gì | Cách kiểm chứng đã thực hiện |
 |---|---|---|
-| OpenAI Codex | Rà soát code Topic A hiện có, chuẩn bị môi trường, chạy thí nghiệm, đóng gói/push notebook Kaggle và tổng hợp báo cáo từ artifact thật | Agent chạy 13 test gồm điểm synthetic đã biết, NaN/Inf/depth/FOV, phép biến đổi, mẫu số recall và shard CSV; kiểm tra dữ liệu, cardinality, JSON/hash; mở ảnh overlay, biểu đồ và failure thực tế |
+| OpenAI Codex | Rà soát code Topic A hiện có, chuẩn bị môi trường, chạy thí nghiệm, đóng gói/push notebook Kaggle, tổng hợp báo cáo, bài nói và slide PDF từ artifact thật | Agent chạy 13 test gồm điểm synthetic đã biết, NaN/Inf/depth/FOV, phép biến đổi, mẫu số recall và shard CSV; kiểm tra dữ liệu, cardinality, JSON/hash; mở ảnh overlay, biểu đồ và failure thực tế; render và kiểm tra 4 trang PDF |
 
 Các thao tác kiểm chứng trên do agent thực hiện trong phiên làm việc; không khẳng định học viên đã tự kiểm chứng hoặc đã trình bày. Học viên cần đọc hiểu hai hàm projection, mẫu số metric và failure trước khi vấn đáp.
 Không train model; không tạo số liệu hoặc ảnh giả. Không thay đổi dữ liệu gốc. Repo gốc đề bài: https://github.com/VinUni-AI20k/K4-Track4-Day06-3D-From-Point-Clouds; nguồn dữ liệu và quy ước xem `data/README.md`, `starter/kitti_io.py`, `starter/nuscenes_io.py`.

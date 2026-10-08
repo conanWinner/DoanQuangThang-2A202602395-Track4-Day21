@@ -1,2 +1,5 @@
 # Giữ nguyên từng byte của dữ liệu (không đổi LF/CRLF trên Windows), để checksum trong MANIFEST.json luôn khớp
 data/** -text
+
+# PDF là tệp nhị phân; giữ nguyên byte và tránh diff dạng văn bản.
+*.pdf binary
